@@ -1,0 +1,165 @@
+<html>
+	<head>
+		<title>data op het doek</title>
+		<!-- <script type="text/javascript" src="/jquery-1.6.4.min.js"></script> -->
+		<script type="text/javascript" src="d3/d3.js">
+		</script>
+		<script type="text/javascript" src="jquery-1.6.4.min.js">
+		</script>
+		<script type="text/javascript" src="js/objects.js">
+		</script>
+		<script type="text/javascript" src="js/visuals.js">
+		</script>
+		<style type="text/css">
+	body {
+		background:#E6E6E6;
+		padding:0;
+		margin:0;
+		font-family: 'FlorencesansSCBlackRegular';
+	}
+	
+	.label{
+		font-size:1.0em;
+	}
+	
+	.header{
+			color:#7f7f7f;
+			font-size:2.0em;
+	}
+	
+	.description{
+		font-size:1.2em;
+		color:#7f7f7f;
+	}
+	
+	@font-face {
+    font-family: 'FlorencesansSCBlackRegular';
+    src: url('font/florsn35-webfont.eot');
+    src: url('font/florsn35-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/florsn35-webfont.woff') format('woff'),
+         url('font/florsn35-webfont.ttf') format('truetype'),
+         url('font/florsn35-webfont.svg#FlorencesansSCBlackRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FlorencesansSCRegular';
+    src: url('font/florsn17-webfont.eot');
+    src: url('font/florsn17-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/florsn17-webfont.woff') format('woff'),
+         url('font/florsn17-webfont.ttf') format('truetype'),
+         url('font/florsn17-webfont.svg#FlorencesansSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+		</style>
+	</head>
+	<body>
+
+		<script type="text/javascript" >
+	 document.body.style.cursor = 'none';
+	
+	var visualisations = new Array();
+	var votersByHash= new Array();
+	var voters = new Array();
+	var votersByChair= new Array();
+
+	//Adding the visual
+	var vis = d3.select("body").append("svg:svg").attr("width", window.width).attr("id", "amazingViz")
+	.attr("height",window.innerHeight);
+
+	for (i=0; i <12; i++) {
+		votersByChair[i]=new Array();
+	}
+
+	$(document).ready( function() {
+		$.getJSON("visuals.txt", function(data) {
+			$.each(data.visualisations, function(i,visual) {
+				visualisations[visual.id-1] = new Visual(visual.name, visual.maker, visual.website);
+			});
+			// $.getJSON("votes.txt", function(data) {
+				// $.getJSON("load.php", function(data) {
+				$.getJSON("votes.txt", function(data) {
+				$.each(data, function(i,voter) {
+
+					//Hier voeg je spullen toe aan de gebruikers objecten
+					votersByHash[voter.voter.hash]= new Voter(voter.voter.rijnummer,voter.voter.stoelnummer,voter.voter.hash);
+					votersByChair[voter.voter.rijnummer][voter.voter.stoelnummer]=votersByHash[voter.voter.hash];
+					voters.push(votersByHash[voter.voter.hash]);
+					$.each(voter.votes, function(i,item) {
+						//Debug regeltje
+						//$("body").append("project "+item.projectID+" categorie "+item.category+" hash "+item.voterHash +" rating "+ item.rating +"<br />");
+
+						if(item.category =="cool") {
+							//console.log("cool: "+item.rating);
+							votersByHash[item.voterHash].voteCountLooks++;
+							votersByHash[item.voterHash].votePerVisualLooks[item.projectID-1] = parseInt(item.rating);
+							visualisations[item.projectID-1].voteAbsoluteCountInfo++;
+							if(parseInt(item.rating) < votersByHash[item.voterHash].lowVoteLooks) {
+								votersByHash[item.voterHash].lowVoteLooks = parseInt(item.rating);
+							}
+							if(parseInt(item.rating) > votersByHash[item.voterHash].highVoteLooks) {
+								votersByHash[item.voterHash].highVoteLooks = parseInt(item.rating);
+							}
+
+						} else {
+							//console.log("info: "+item.rating);
+							votersByHash[item.voterHash].voteCountInfo++;
+							votersByHash[item.voterHash].votePerVisualInfo[item.projectID-1] = parseInt(item.rating);
+							visualisations[item.projectID-1].voteAbsoluteCountLooks++;
+							if(item.rating < votersByHash[item.voterHash].lowVoteInfo) {
+								votersByHash[item.voterHash].lowVoteInfo = parseInt(item.rating);
+							}
+							if(item.rating > votersByHash[item.voterHash].highVoteInfo) {
+								votersByHash[item.voterHash].highVoteInfo = parseInt(item.rating);
+							}
+						}
+
+					});
+					//Hier aan de gebruikers objecten + visuals
+					var sumLooks =0;
+					var sumInfo =0;
+
+					//$.each werkt niet als visualisaties worden overgeslagen dus doen we for(var i in array)
+					for (var data in votersByHash[voter.voter.hash].votePerVisualLooks) {
+						sumLooks +=votersByHash[voter.voter.hash].votePerVisualLooks[data];
+						visualisations[data].avgVoteLooks = ((visualisations[data].avgVoteLooks*visualisations[data].voteCountLooks)+votersByHash[voter.voter.hash].votePerVisualLooks[data])/(visualisations[data].voteCountLooks+1);
+						visualisations[data].voteCountLooks++;
+					}
+
+					votersByHash[voter.voter.hash].avgVoteLooks = sumLooks/votersByHash[voter.voter.hash].votePerVisualLooks.length;
+
+					for (var data in votersByHash[voter.voter.hash].votePerVisualInfo) {
+						sumInfo +=votersByHash[voter.voter.hash].votePerVisualInfo[data];
+						visualisations[data].avgVoteInfo = ((visualisations[data].avgVoteInfo*visualisations[data].voteCountInfo)+votersByHash[voter.voter.hash].votePerVisualInfo[data])/(visualisations[data].voteCountInfo+1);
+						visualisations[data].voteCountInfo++;
+					}
+
+					votersByHash[voter.voter.hash].avgVoteInfo = sumInfo/votersByHash[voter.voter.hash].votePerVisualInfo.length;
+				});
+				//Loading the first visual
+				showViaKeypress(0);
+				//Adding the keyboard controls for switching visualisations;
+				$(document).keypress( function(e) {
+					switch(e.which) {
+						// user presses the "a"
+						case 97:
+							showViaKeypress(-1);
+							break;
+						// user presses the "s" key
+						case 115:
+							showViaKeypress(1);
+							break;
+					}
+				});
+			});
+		});
+	});
+
+		</script>
+	</body>
+</html>

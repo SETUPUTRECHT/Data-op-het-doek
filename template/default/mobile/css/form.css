@@ -1,0 +1,272 @@
+div.pfbc-tokens{
+display:none;
+}
+
+div.pfbc-error{
+background-image:none !important;
+background-color:#FFFFFF !important;
+border:1px solid #C4ED9A !important;
+color:#69A541 !important;
+width:auto !important;
+max-width:300px !important;
+/*margin:0 auto !important;*/
+margin-top:5px !important;
+-moz-box-shadow: 1px 1px 3px #B7EA84;
+-webkit-box-shadow: 1px 1px 3px #B7EA84;
+box-shadow: 1px 1px 3px #B7EA84;
+}
+
+div.pfbc-loading{
+position:absolute !important;
+top:0px !important;
+z-index:10000 !important;
+font-size:18px !important;
+text-align:center !important;
+background-color:#FFFFFF !important;
+opacity:0.8 !important;
+padding-top:8%;
+height:92% !important;
+padding-left:80px;
+padding-right:80px;
+}
+
+.pfbc-label small{
+padding-left:9px;
+padding-bottom:2px;
+}
+
+h1{
+font-family:Arial;
+font-size:24px;
+}
+
+h2{
+font-family:Arial;
+}
+
+h3{
+font-family:Arial;
+}
+
+form{
+font-family:Arial;
+}
+
+div.divider{
+margin-top:8px;
+height:1px;
+border-top:1px dashed lightgrey;
+width:100%;
+clear:both;
+}
+
+input[type=text]{
+padding:3px;
+border:1px solid lightgrey;
+text-align: left;
+background-image:url('/juriaan/tpl/default/img/btn_bg.jpg');
+background-position:0px -75px;
+}
+
+select{
+font-size:12px;
+border:1px solid lightgrey;
+background-image:url('/juriaan/tpl/default/img/btn_bg.jpg');
+background-position:0px -75px;
+text-align: left;
+padding:2px;
+}
+
+
+input[type=submit]{
+width:auto;
+height:25px;
+padding-left:8px;
+padding-right:8px;
+text-align:center;
+font-size:13px;
+border:1px solid #D5D5D5;
+color:#444444;
+background-image:url('/juriaan/tpl/default/img/btn_grey_bg.jpg');
+background-position:0px 0px;
+background-repeat:repeat-x;
+cursor:pointer;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+line-height:5px !important;
+}
+
+input[type=submit]:hover{
+border:1px solid #E6E6E6;
+color:#6A6A6A;
+background-position:0px -25px;
+}
+
+input[type=submit]:active{
+color:#6A6A6A;
+background-position:0px -50px;
+}
+
+textarea{
+padding:3px;
+font-size:13px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+line-height:18px;
+border:1px solid #D9D9D9;
+letter-spacing:0px;
+}
+
+input.txtbox{
+padding:3px;
+font-size:12px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+background-color: white;
+border-right: 1px solid #BFBFBF;
+border-left: 1px solid #BFBFBF;
+border-top: 1px solid #999999;
+border-bottom: 1px solid #F2F2F2;
+text-align: left;
+line-height: 14px;
+color: black;
+background-image:url('/juriaan/tpl/default/img/btn_bg.jpg');
+background-position:0px -75px;
+}
+input.search{
+width: 130px;
+height: 10px;
+}
+input.search_btn{
+width: 140px;
+height: 21px;
+margin-top: 6px;
+background-image: url(/preview/img/submit_bg.jpg);
+background-repeat: repeat-x;
+border:1px solid #CCCCCC;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+font-size: 12px;
+color: black;
+cursor: pointer;
+}
+input.search_btn:hover{
+background-image: url(/preview/img/submit_bg_hvr.jpg);
+background-repeat: repeat-x;
+}
+
+select.txtbox{
+padding:4px;
+border:1px solid #BFBFBF;
+}
+
+select.txtbox option{
+font-size:14px;
+}
+
+div.btn{
+width:auto;
+height:23px;
+border:1px solid #BFBFBF;
+background-image:url('/juriaan/tpl/default/img/btn_grey_bg.jpg');
+background-repeat:repeat-x;
+cursor:pointer;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+position:relative;
+max-width:150px;
+}
+
+div.btn p{
+width:auto;
+height:auto;
+padding-top:5px !important;
+padding-left:12px !important;
+padding-right:12px !important;
+text-align:center;
+font-size:12px;
+color:#333333;
+position:relative;
+float:left;
+}
+
+div.ico p{
+padding-left:7px !important;
+}
+
+div.ico img{
+float:left;
+margin-left:7px;
+margin-top:3px;
+}
+
+div.btn:hover{
+background-position:0px -25px;
+}
+
+div.btn:active{
+background-position:0px -50px;
+}
+
+div.btn div.uploadIcon{
+background-image:url(/plugins/uploadify/iconset.png);
+background-position:1px 2px;
+width:20px;
+height:20px;
+float:left;
+}
+
+div.btn p.upload{
+float:left;
+}
+
+div.top{
+width:100%;
+height:25px;
+background-image:url('/juriaan/tpl/default/img/top_bg.jpg');
+background-position:0px 0px;
+background-repeat:repeat-x;
+-moz-border-radius-topleft: 6px;
+-moz-border-radius-topright: 6px;
+-webkit-border-top-right-radius: 6px;
+-webkit-border-top-left-radius: 6px;
+}
+div.top p{
+padding-top:4px;
+padding-left:12px;
+font-size:12px;
+color:#FFFFFF;
+text-shadow: #666666 1px 1px 2px;
+}
+
+input:focus, textarea:focus{
+border:1px solid #5398C6;
+}
+
+
+div.imanager{
+float:left;
+cursor:pointer;
+background-position:-30px -107px;
+}
+
+div.formlogin{
+width:300px;
+overflow:hidden;
+margin:40px auto 0 auto;
+border:1px solid #5a5a5a;
+-moz-box-shadow: 1px 1px 4px #D5D5D5;
+-webkit-box-shadow: 1px 1px 4px #D5D5D5;
+box-shadow: 1px 1px 4px #D5D5D5;
+}
+
+div.formlogin input{
+width:180px;
+}
+
+div.formlogin label{
+float:left;
+font-size:12px;
+padding-top:8px;
+padding-left:2px;
+}

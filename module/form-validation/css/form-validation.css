@@ -1,0 +1,30 @@
+label.error{
+padding:12px;
+margin-top:8px;
+width:90% !important;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+border:1px solid #F9DC6C;
+background-color:#FDF2CE;
+}
+
+.portrait label.error, .landscape label.error {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-top: 0.5em;
+    width: 100%;
+    float: none;
+}
+
+.portrait label.error { 
+    margin-left: 0; 
+    display: block; 
+}
+
+em { 
+    color: red; 
+    font-weight: bold; 
+    padding-right: .25em; 
+}

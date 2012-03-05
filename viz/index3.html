@@ -1,0 +1,78 @@
+<html>
+<head>
+	<title>d3 tets run</title>
+	<!-- <script type="text/javascript" src="/jquery-1.6.4.min.js"></script> -->
+	 <script type="text/javascript" src="d3/d3.js"></script>
+	 <script type="text/javascript" src="jquery-1.6.4.min.js"></script>
+	
+</head>
+<body>
+	
+	<script type="text/javascript" >
+	$(document).ready(function(){
+	airlineOutgoingCounter = new Object;
+	airportDestinationCounter = new Object;
+	airlineIncomingCounter = new Object;
+	airportStartCounter = new Object;
+	statusInCounter = new Object;
+	statusOutCounter = new Object;
+	timeInCounter = new Object;
+	timeOutCounter = new Object;
+	
+	$.getJSON("departures_today_passenger.txt",
+    function(data) {  	
+    CarrierCount(airlineOutgoingCounter,data);
+    AirportCount(airportDestinationCounter,data);
+   	timeCount(timeOutCounter,data);
+   
+  });
+  
+  $.getJSON("arrivals_today_passenger.txt",
+    function(data) {  	
+    CarrierCount(airlineIncomingCounter,data);
+    AirportCount(airportStartCounter,data);
+    timeCount(timeInCounter,data);
+   
+  });
+  
+  // console.dir(airlineOutgoingCounter);
+  // console.dir(airportDestinationCounter);
+  
+  function CarrierCount(airlineCounter,data){
+  	$.each(data.data.flights, function(i,item){
+    
+      if (!airlineCounter.hasOwnProperty(item.carrier)) {
+      	   airlineCounter[item.carrier] = 1;
+		}else{
+			airlineCounter[item.carrier]++;
+		}
+	 });
+  }
+  
+  function AirportCount(airportCounter,data){
+  	$.each(data.data.flights, function(i,item){
+    
+      if (!airportCounter.hasOwnProperty(item.airport)) {
+      	   airportCounter[item.airport] = 1;
+		}else{
+			airportCounter[item.airport]++;
+		}
+	 });
+ }
+ 
+ function timeCount(timeCouter, data){
+ 	$.each(data.data.flights, function(i,item){
+    
+      if (!timeCouter.hasOwnProperty(item.scheduled)) {
+      	   timeCouter[item.scheduled] = 1;
+		}else{
+			timeCouter[item.scheduled]++;
+		}
+	 });
+ 	
+ }
+  
+  });
+	</script>
+</body>
+</html>

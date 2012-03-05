@@ -1,0 +1,17 @@
+<head>
+	<title>Dynamisch functies uitvoeren</title>
+	<script>
+	
+	//dit voorkomt eval evil
+	function myFunc(text){
+  	// alert('hello world');
+	func2 = function() {
+		alert('hello again');
+	}
+	this[text]();
+	}
+	window['myFunc']("func2");
+	</script>
+</head>
+<body>
+</body>

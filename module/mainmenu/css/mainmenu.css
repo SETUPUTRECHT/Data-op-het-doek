@@ -1,0 +1,7 @@
+/* Mainmenu */
+
+#mainmenu a.active{
+background-color:#008CC7;
+color:#FFFFFF;
+background-image:none !important;
+}

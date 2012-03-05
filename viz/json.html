@@ -1,0 +1,58 @@
+<html>
+<head>
+    <title>Demo - Covnert JSON to CSV</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="https://github.com/douglascrockford/JSON-js/raw/master/json2.js"></script>
+ 
+    <script type="text/javascript">
+        // JSON to CSV Converter
+        function ConvertToCSV(objArray) {
+            var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
+            var str = '';
+ 
+            for (var i = 0; i < array.length; i++) {
+                var line = '';
+                for (var index in array[i]) {
+                    if (line != '') line += ','
+ 
+                    line += array[i][index];
+                }
+ 
+                str += line + '\r\n';
+            }
+ 
+            return str;
+        }
+ 
+        // Example
+$(document).ready(function() {
+  $.getJSON('http://dod.setup.nl/feed/votes.php?callback=?', function(json) { 
+console.log("stuff");
+console.log(json);
+  });
+});
+
+
+        
+$(document).ready(function () {
+ 		
+	
+	$.getJSON("http://www.geonames.org/postalCodeLookupJSON?postalcode=10504&country=US&callback=?", function(data) {
+  
+ 
+            // Convert JSON to CSV & Display CSV
+            $('#csv').text(ConvertToCSV(data));
+});
+
+        });
+    </script>
+</head>
+<body>
+    <h1>
+        JSON</h1>
+    <pre id="json"></pre>
+    <h1>
+        CSV1</h1>
+    <pre id="csv1"></pre>
+</body>
+</html>

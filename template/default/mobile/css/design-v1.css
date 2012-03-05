@@ -1,0 +1,144 @@
+/* Topbar */
+#topbar div#logo{
+height:auto;
+float:left;
+}
+
+#topbar div#logo img{
+border:none;
+}
+
+/* Accountmenu */
+
+#topbar #accountmenu{
+float:right;
+width:auto;
+height:30px;
+overflow:hidden;
+}
+
+#topbar #accountmenu a{
+padding-top:9px;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:9px;
+display:block;
+font-size: 11px;
+float:left;
+}
+
+#topbar #accountmenu span{
+width:1px;
+height:26px;
+background-color:lightgrey;
+margin-top:2px;
+float:left;
+}
+
+/* Mainmenu */
+ul#mainmenu{
+width:auto;
+height:44px;
+list-style:none;
+background-image:url(/juriaan/image/ui/tile.png);
+background-repeat:repeat-x;
+background-position:0 -94px;
+}
+
+ul#mainmenu li{
+width:auto;
+height:41px;
+margin-top:2px;
+float:left;
+border-left:1px solid #979797;
+border-right:1px solid #353535;
+}
+
+ul#mainmenu li a{
+padding:13px;
+padding-bottom:15px;
+padding-left:17px;
+padding-right:17px;
+color:#bbbbbb;
+text-shadow: 1px 1px 2px #333333;
+text-decoration:none !important;
+float:left;
+}
+
+ul#mainmenu li a.cv{
+padding:13px;
+padding-bottom:15px;
+padding-left:26px;
+padding-right:26px;
+}
+
+ul#mainmenu li.active{
+background-color:#4C4C4C;
+text-shadow: 1px 1px 2px #222222;
+}
+
+ul#mainmenu li.active a{
+color:#FFFFFF;
+}
+
+ul#mainmenu li a:hover{
+color:#FFFFFF !important;
+}
+
+/* Admin menu */
+
+ul#adminmenu{
+width:100%;
+height:44px;
+list-style:none;
+background-image:url(/juriaan/image/ui/tile.png);
+background-repeat:repeat-x;
+background-position:0 -94px;
+}
+
+ul#adminmenu li{
+width:auto;
+height:41px;
+margin-top:2px;
+float:left;
+border-left:1px solid #979797;
+border-right:1px solid #353535;
+}
+
+ul#adminmenu li a{
+padding:13px;
+padding-bottom:15px;
+padding-left:15px;
+padding-right:15px;
+color:#bbbbbb;
+text-decoration:none !important;
+float:left;
+}
+
+ul#adminmenu li.active{
+background-color:#4C4C4C;
+}
+
+ul#adminmenu li.active a{
+color:#FFFFFF;
+}
+
+ul#adminmenu li a:hover{
+color:#FFFFFF !important;
+}
+
+/* Homepage */
+#hometext{
+padding:25px;
+}
+
+#hometext p{
+margin-top:10px;
+line-height:22px;
+}
+
+#hometext img{
+float:none;
+margin-left:10px;
+margin-bottom:10px;
+}

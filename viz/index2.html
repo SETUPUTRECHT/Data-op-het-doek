@@ -1,0 +1,62 @@
+<html>
+<head>
+	<title>d3 tets run</title>
+	<!-- <script type="text/javascript" src="/jquery-1.6.4.min.js"></script> -->
+	 <script type="text/javascript" src="d3/d3.js"></script>
+	
+	
+</head>
+<body>
+	
+	<script type="text/javascript" >
+	
+	var x = d3.scale.linear().domain([0,10]).range([0,400]),
+	y = d3.scale.linear().domain([0,1]).range([0,100]),
+	groupHeight = 60,
+	topMargin = 100;
+	
+	var data = []
+	d3.range(10).forEach(function(d) { data.push(Math.random()) });
+	
+	var interpolations = [
+    "basis",
+    "cardinal"
+    ]
+    
+    function getLine(interpolation) {
+    return d3.svg.line().x(function(d,i) {
+        return x(i)
+    }).y(function(d) {
+        return y(d)
+    }).interpolate(interpolation)
+	//.tension(0)
+	}
+	
+	var vis = d3.select("body")
+    .append("svg:svg")
+    .attr("class", "vis")
+    .attr("width", window.width)
+    .attr("height", window.height)
+    
+    var lg = vis.selectAll(".lineGroup")
+    .data(interpolations)
+    .enter().append("svg:g")
+    .attr("class", "lineGroup")
+    .attr("transform", function(d,i) {
+    return "translate(100," + (topMargin + i * groupHeight) + ")"
+}).each(drawLine)
+
+function drawLine(p,j) {
+    d3.select(this)
+        .selectAll(".lineGroup")
+        .data(data)
+        .enter().append("svg:path")
+        .attr("d", getLine(p)(data))
+        .attr("fill", "none")
+        .attr("stroke", "steelblue")
+        .attr("stroke-width", 3)
+        //.attr("stroke-dasharray", "15 5")
+}
+	</script>
+</body>
+</html>

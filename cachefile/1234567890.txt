@@ -1,0 +1,1934 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+	    <title>Standenmotor - Koninklijke Nederlandse Hockey Bond</title>
+	    <base href="http://www.knhb.nl/"></base>
+	    <meta name="Robots" content="index,follow" />
+<meta name="Date" content="Mon, 29-Jun-2009 11:35:25 GMT" />
+<meta name="Last-Modified" content="Thu, 5-May-2011 08:15:36 GMT" />
+<meta name="Description" content="Het is niet toegestaan gegevens van&amp;nbsp;de standenmotor&amp;nbsp;te kopiëren of te integreren in een niet KNHB gerelateerde website of andere applicatie. Officiële clubwebsites kunnen wel gebruikmaken van de gegevens.   &amp;nbsp; &amp;nbsp;     " />
+<meta http-equiv="Content-Language" content="nl-NL" />
+<meta name="Copyright" content="KNHB" />
+<meta name="Revisit-After" content="15 Days" />
+<meta name="Generator" content="Idios 3.57.2" />
+<meta name="Server" content="213.75.57.135" />
+<meta name="Keywords" content="nbsp, standenmotor, gegevens, niet, gerelateerde, gebruikmaken, clubwebsites, integreren, applicatie, toegestaan, competities &amp; disciplines" />
+
+	    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	    <!--[if IE 6]><link href="css2/css_Navigator_IE6.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
+	    <link media="print" href="/css2/css_KNHB_print.css" type="text/css" rel="stylesheet" />    
+        <link media="screen" href="/css2/css_KNHB.css" type="text/css" rel="stylesheet" />
+
+        <link media="screen" href="/css2/css_pageSpecific.css" type="text/css" rel="stylesheet" />
+		
+    </head>
+    <body class="">
+	    <form name="Form1" method="post" action="../../../default.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA%3d%3d&amp;strLanguageRef=DU&amp;intCategoryId=593" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5ODA0NTM3NDAPZBYGZg8VAgxTdGFuZGVubW90b3ITaHR0cDovL3d3dy5rbmhiLm5sL2QCBg8VAQBkAgcPZBYGAgEPZBYCZg9kFgpmD2QWAmYPDxYCHgdWaXNpYmxlaGQWBgIBDxYCHwBoFgJmDxUBf2h0dHA6Ly93d3cua25oYi5ubC9jb21wZXRpdGllcytkaXNjaXBsaW5lcy9zdGFuZGVubW90b3Ivc3RhbmRlbm1vdG9yL2NEVTU5M19TdGFuZGVubW90b3IuYXNweD9idEVkaXRPYmplY3Q9MSZidEFkZE5ld0RvY3VtZW50PTFkAgMPFgIfAGgWAmYPFQF/aHR0cDovL3d3dy5rbmhiLm5sL2NvbXBldGl0aWVzK2Rpc2NpcGxpbmVzL3N0YW5kZW5tb3Rvci9zdGFuZGVubW90b3IvY0RVNTkzX1N0YW5kZW5tb3Rvci5hc3B4P2J0RWRpdE9iamVjdD0xJmJ0RGVsZXRlRG9jdW1lbnQ9MWQCBA8VAqQCaHR0cDovL3d3dy5rbmhiLm5sL2tuaGIvYXV0aGVudGljYXRpZS9jRFU4OThfQXV0aGVudGljYXRpZS5hc3B4P3N0clJlZmVycmVyPSUyZmNvbXBldGl0aWVzJTJiZGlzY2lwbGluZXMlMmZzdGFuZGVubW90b3IlMmZzdGFuZGVubW90b3IlMmZjRFU1OTNfU3RhbmRlbm1vdG9yLmFzcHglM2ZzdHJGaWx0ZXIlM2RRV2RsUFRBd01TWmthVDB4TXpFMU9ETXdNall6Smt0cGJtUTlSQ1pUWlhnOU1TWmtZVDB4TXpFMk5USXhORFl6SmxSbFlXMDlNakl4TVRjdE5UWTJNemttUTJ4MVlqMUlTREV4UzFjNEprMDlVQSUzZCUzZAogQW5vbnltb3VzZAICD2QWAmYPZBYCZg8VAT9odHRwOi8vd3d3LmtuaGIubmwva25oYi9wYXJ0bmVycytrbmhiL2NEVTg4OF9QYXJ0bmVycytLTkhCLmFzcHhkAgMPFQELcGFnZUFydGljbGVkAggPZBYCAgMPZBYGZg8WAh8AZ2QCAg8WAh8AaGQCBA8WBB4Dc3JjBQthYm91dDpibGFuax8AaGQCCg9kFggCAg8PFgIfAGhkZAIDD2QWAmYPFQMDdG9wFmJhbm5lckFyZWFfY3RsMDRfY3RsMTLFCTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCjwhLS0NCnZhciBzdHJBcnJCYW5uZXJzX2N0bDA0X2N0bDEyID0gbmV3IEFycmF5KCk7DQpzdHJBcnJCYW5uZXJzX2N0bDA0X2N0bDEyW3N0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTIubGVuZ3RoXSA9IG5ldyBCYW5uZXIoJ1Nwb3J0Jywnc3BvcnQubmwnLCdodHRwOi8vd3d3LnNwb3J0Lm5sLycsJ2h0dHA6Ly9saXZlLmJlaGVlci5rbmhiLm5sL0lfQVBJL2Rvd25sb2FkQk5GaWxlLmFzcHg/aW50QmFubmVySWQ9MTI1JmludENhY2hlVGltZT0xNScsIDAsICcnKTsNCnN0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTJbc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxMi5sZW5ndGhdID0gbmV3IEJhbm5lcignTWVsZGluZyBob29mZGxldHNlbCcsJ01lbGRpbmcgaG9vZmRsZXRzZWwnLCdodHRwOi8vd3d3LmtuaGIubmwva25oYi9tZWRpc2NoZSt6YWtlbi9tZWxkcHVudCtob29mZGJsZXNzdXJlcy9jRFU4OTJfTWVsZHB1bnQraG9vZmRibGVzc3VyZXMuYXNweCcsJ2h0dHA6Ly9saXZlLmJlaGVlci5rbmhiLm5sL0lfQVBJL2Rvd25sb2FkQk5GaWxlLmFzcHg/aW50QmFubmVySWQ9MTIyJmludENhY2hlVGltZT0xNScsIDAsICcnKTsNCnN0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTJbc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxMi5sZW5ndGhdID0gbmV3IEJhbm5lcignSG9ja2V5JywnSG9ja2V5JywnaHR0cDovL3d3dy5ob2NrZXkubmwnLCdodHRwOi8vbGl2ZS5iZWhlZXIua25oYi5ubC9JX0FQSS9kb3dubG9hZEJORmlsZS5hc3B4P2ludEJhbm5lcklkPTExOCZpbnRDYWNoZVRpbWU9MTUnLCAwLCAnX2JsYW5rJyk7DQpzdHJBcnJCYW5uZXJzX2N0bDA0X2N0bDEyW3N0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTIubGVuZ3RoXSA9IG5ldyBCYW5uZXIoJ3dlYnNob3AnLCdLTkhCIFdFQlNIT1AnLCdodHRwOi8vd3d3LmtuaGIubmwva25oYi93ZWJzaG9wL2NEVTEwNThfV2Vic2hvcC5hc3B4JywnaHR0cDovL2xpdmUuYmVoZWVyLmtuaGIubmwvSV9BUEkvZG93bmxvYWRCTkZpbGUuYXNweD9pbnRCYW5uZXJJZD0xMjQmaW50Q2FjaGVUaW1lPTE1JywgMCwgJycpOw0KZm5TaG93QmFubmVycygnYmFubmVyQXJlYV9jdGwwNF9jdGwxMicsIHN0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTIsIDEwMDAwLCAxNzgsIDM4LCAwLCAxLCAxLCAnSV9DQVBfQmFubmVySW1hZ2UnLCAnaW1hZ2VzJyk7DQovLyAtLT4NCjwvc2NyaXB0PmQCBA9kFgJmDxUDABZiYW5uZXJBcmVhX2N0bDA0X2N0bDEzzgM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQo8IS0tDQp2YXIgc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxMyA9IG5ldyBBcnJheSgpOw0Kc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxM1tzdHJBcnJCYW5uZXJzX2N0bDA0X2N0bDEzLmxlbmd0aF0gPSBuZXcgQmFubmVyKCdob2NrZXlmb3RvJywnQmVzdGVsIGhpZXIgamUgZm90b1wncycsJ2h0dHA6Ly93d3cuaG9ja2V5Zm90by5ubCcsJ2h0dHA6Ly9saXZlLmJlaGVlci5rbmhiLm5sL0lfQVBJL2Rvd25sb2FkQk5GaWxlLmFzcHg/aW50QmFubmVySWQ9MTM2JmludENhY2hlVGltZT0xNScsIDAsICcnKTsNCmZuU2hvd0Jhbm5lcnMoJ2Jhbm5lckFyZWFfY3RsMDRfY3RsMTMnLCBzdHJBcnJCYW5uZXJzX2N0bDA0X2N0bDEzLCAxMDAwMCwgMTc4LCAzOCwgMCwgMSwgMSwgJ0lfQ0FQX0Jhbm5lckltYWdlJywgJ2ltYWdlcycpOw0KLy8gLS0+DQo8L3NjcmlwdD5kAgUPZBYCZg8VAwAWYmFubmVyQXJlYV9jdGwwNF9jdGwxNIQEPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KPCEtLQ0KdmFyIHN0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTQgPSBuZXcgQXJyYXkoKTsNCnN0ckFyckJhbm5lcnNfY3RsMDRfY3RsMTRbc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxNC5sZW5ndGhdID0gbmV3IEJhbm5lcignU3RhbmRlbm1vdG9yJywnU3RhbmRlbm1vdG9yJywnaHR0cDovL3d3dy5rbmhiLm5sL2NvbXBldGl0aWVzL3N0YW5kZW5tb3Rvci9zdGFuZGVubW90b3IvY0RVNTkzX1N0YW5kZW5tb3Rvci5hc3B4JywnaHR0cDovL2xpdmUuYmVoZWVyLmtuaGIubmwvSV9BUEkvZG93bmxvYWRCTkZpbGUuYXNweD9pbnRCYW5uZXJJZD0xMjAmaW50Q2FjaGVUaW1lPTE1JywgMCwgJ19zZWxmJyk7DQpmblNob3dCYW5uZXJzKCdiYW5uZXJBcmVhX2N0bDA0X2N0bDE0Jywgc3RyQXJyQmFubmVyc19jdGwwNF9jdGwxNCwgMTAwMDAsIDE3OCwgMzgsIDAsIDEsIDEsICdJX0NBUF9CYW5uZXJJbWFnZScsICdpbWFnZXMnKTsNCi8vIC0tPg0KPC9zY3JpcHQ+ZAIDDxYCHwBoZAIFDxYCHwBoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUjY3RsMDQkY3RsMDkkY3RsMDEkY3RsMDAkY2hrQ2x1Yk1vZGWXKMOHvwKLubH2eSWJ7zw7hj4VgA==" />
+
+
+<script src="/downloadattachment.aspx?strResource=jquery-1.5.2.js" type="text/javascript"></script>
+<script src="http://www.knhb.nl/js/jquery.galleriffic.js?v=634486517192466000" type="text/javascript"></script>
+<script src="http://www.knhb.nl/js/jquery.pngFix.js?v=634486517192866000" type="text/javascript"></script>
+<script src="http://www.knhb.nl/js/jquery.cluetip.js?v=634486517192426000" type="text/javascript"></script><script language="javascript" type="text/javascript"> var strWebsiteRoot = '/'; var strFormTarget = '/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA==';</script>
+<script language="Javascript" type="text/javascript" src="/js/global.js"></script>
+<script src="/downloadattachment.aspx?strResource=TextFunctions.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=SearchControl.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=prototype-1.5.1.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=Aspacts.Idios3.I_CAP.Scripting.Core.js" type="text/javascript"></script>
+<script src="http://www.knhb.nl/downloadattachment.aspx?strLangRes=Aspacts.Idios3.I_CAP.Scripting.InlineWin.js&amp;strLang=DU" type="text/javascript"></script><link href="/downloadattachment.aspx?strResource=InlineWin.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script src="/downloadattachment.aspx?strResource=prototype.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=DateFormatting.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=TextEncoding.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=FilterBuilder.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+ var calMonthNames = new Array()
+ var calDayNames = new Array()
+calMonthNames[calMonthNames.length] = 'januari';
+calMonthNames[calMonthNames.length] = 'februari';
+calMonthNames[calMonthNames.length] = 'maart';
+calMonthNames[calMonthNames.length] = 'april';
+calMonthNames[calMonthNames.length] = 'mei';
+calMonthNames[calMonthNames.length] = 'juni';
+calMonthNames[calMonthNames.length] = 'juli';
+calMonthNames[calMonthNames.length] = 'augustus';
+calMonthNames[calMonthNames.length] = 'september';
+calMonthNames[calMonthNames.length] = 'oktober';
+calMonthNames[calMonthNames.length] = 'november';
+calMonthNames[calMonthNames.length] = 'december';
+calDayNames[calDayNames.length] = 'ma';
+calDayNames[calDayNames.length] = 'di';
+calDayNames[calDayNames.length] = 'wo';
+calDayNames[calDayNames.length] = 'do';
+calDayNames[calDayNames.length] = 'vr';
+calDayNames[calDayNames.length] = 'za';
+calDayNames[calDayNames.length] = 'zo';
+strDateFormat = 'd-M-yyyy';
+CurrentFilter = new DocumentFilter('http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx');
+CurrentFilter.fnSetRawFilterItem('Age', '001');
+CurrentFilter.fnSetRawFilterItem('di', '1315830263');
+CurrentFilter.fnSetRawFilterItem('Kind', 'D');
+CurrentFilter.fnSetRawFilterItem('Sex', '1');
+CurrentFilter.fnSetRawFilterItem('da', '1316521463');
+CurrentFilter.fnSetRawFilterItem('Team', '22117-56639');
+CurrentFilter.fnSetRawFilterItem('Club', 'HH11KW8');
+CurrentFilter.fnSetRawFilterItem('M', 'P');
+//]]>
+</script>
+
+<script src="/downloadattachment.aspx?strResource=FlashObject.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=BannerControl.js" type="text/javascript"></script>
+<script src="http://www.knhb.nl/js/BannerControl.js?v=634486517192016000" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=jquery.lightbox-0.5.js" type="text/javascript"></script><link href="/downloadattachment.aspx?strResource=jquery.lightbox-0.5.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script src="/downloadattachment.aspx?strResource=swfobject-2.2.js" type="text/javascript"></script>
+<script src="/downloadattachment.aspx?strResource=jquery.aspacts-1.0.js" type="text/javascript"></script>
+<script type="text/javascript" src="/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/Aspacts.Websites.KNHB.Applications.CompetitionHockey.SearchClub,Aspacts.Websites.KNHB.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/Aspacts.Websites.KNHB.Components.Sportlink.Competition.CompetitionKind,Aspacts.Websites.KNHB.Components.Sportlink.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/Aspacts.Websites.KNHB.Components.Sportlink.Competition.AgeClassCode,Aspacts.Websites.KNHB.Components.Sportlink.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/Aspacts.Websites.KNHB.Components.Sportlink.Competition.TeamSex,Aspacts.Websites.KNHB.Components.Sportlink.ashx"></script>
+
+		    
+
+<div class="contSponsorBanner">
+    <div class="contSponsor">
+    <div class="contSponsor2">
+        <h2>KNHB - Official Partners</h2>        
+        <div class="sponsorImages"><a href="http://www.knhb.nl/knhb/partners+knhb/cDU888_Partners+KNHB.aspx"><img src="images/PB_website.png" alt="KNHB - Official Partners" height="50px" width="482px"/></a></div>
+	</div>    
+    </div>
+</div>
+
+<div class="contPageLayout pageArticle">
+	<link media="screen" href="/css2/css_Header.css" type="text/css" rel="stylesheet" />
+
+<div class="contPageHeader">
+<div class="bar-overlay">&nbsp;</div>
+<a href="/default.aspx" target="_top"><img src="/images/2011/logo-KNHB.png" title="Terug naar KNHB.nl homepage" id="logoKNHB_Screen" width="299" height="64"></a>
+<img src="/images/logo-KNHB_print.gif" width="1" height="1" id="logoKNHB_Print">
+
+<div class="contMainMenu" align="right">
+	<span>
+		<ul id="nav" class="Level1">			
+			
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/competities+disciplines/cDU591_Competitie.aspx">Competities & disciplines</a>
+                    <ul class="Level2">
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/standenmotor/cDU592_Standenmotor.aspx">Standenmotor</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx">Standenmotor</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor-zaal/cDU594_Standenmotor-Zaal.aspx">Standenmotor-Zaal</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor-bedrijf/cDU595_Standenmotor-Bedrijf.aspx">Standenmotor-Bedrijf</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/algemeen/cDU938_Algemeen.aspx">Algemeen</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/afgelastingen/cDU652_Alles+over+afgelastingen.aspx">Afgelastingen</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/nieuws/cDU931_Nieuws.aspx">Nieuws</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/support+clubs/cDU658_Support+clubs.aspx">Support clubs</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/support+clubs+rabo+hoofdklasse/cDU657_Support+clubs+Rabo+Hoofdklasse.aspx">Support clubs Rabo Hoofdklasse</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/support+clubs+overgangsklasse/cDU1335_Support+Overgangsklasse.aspx">Support clubs Overgangsklasse</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/protestcommissie/cDU1064_Protestcommissie.aspx">Protestcommissie</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/tuchtcommissie/cDU653_Tuchtzaken.aspx">Tuchtcommissie</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/tuchtcommissie/informatie/cDU654_Informatie.aspx">Informatie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/tuchtcommissie/formulieren+clubs/cDU655_Formulieren+clubs.aspx">Formulieren clubs</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/tuchtcommissie/veelgestelde+vragen/cDU656_Veelgestelde+vragen.aspx">Veelgestelde vragen</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/wedstrijdsecretaris/cDU598_Inloggen+weds+secretaris.aspx">Wedstrijdsecretaris</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/veldhockey/cDU599_Veldhockey.aspx">Veldhockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/wat+is/cDU600_Wat+is+veldhockey.aspx">Wat is</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/bondscompetitie/cDU601_Bondscompetitie.aspx">Bondscompetitie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/districten/cDU602_Districten.aspx">Districten</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/jeugd/cDU603_Jeugd.aspx">Jeugd</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/studentenhockey/cDU604_De+studentenpagina.aspx">Studentenhockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/veteranen+dames/cDU606_Veteranen+Dames.aspx">Veteranen Dames</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/veteranen+heren/cDU607_Veteranen+Heren.aspx">Veteranen Heren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/dames+door+de+week/cDU608_Dames+door+de+week.aspx">Dames door de week</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/veldhockey/zondagjeugdhockey/cDU1310_ZondagJeugdHockey.aspx">Zondagjeugdhockey</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/zaalhockey/cDU609_Zaalhockey.aspx">Zaalhockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/zaalhockey/support+clubs/cDU610_Support+clubs.aspx">Support clubs</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/zaalhockey/districten/cDU1276_Districten.aspx">Districten</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/beach+hockey/cDU637_Beach+Hockey.aspx">Beach Hockey</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/cDU611_Bedrijfshockey.aspx">Bedrijfshockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/nieuws/cDU612_LK+Bedrijfshockey+2011.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/aanvoerders/cDU613_Aanvoerders.aspx">Aanvoerders</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/coordinatoren/cDU614_Coördinatoren.aspx">Coordinatoren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/import+uitslagen/cDU615_Import+aanvoerders.aspx">Import uitslagen</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/fithockey/cDU638_Fithockey.aspx">Fithockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/fithockey/nieuws/cDU639_Start+Beweegroute+Deventer.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/fithockey/spelleiders/cDU640_Spelleiders.aspx">Spelleiders</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/fithockey/locaties/cDU641_Locaties.aspx">Locaties</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/fithockey/vereniging/cDU642_Vereniging.aspx">Vereniging</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/funkey/cDU1268_Funkey.aspx">Funkey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/funkey/nieuws/cDU1271_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/funkey/mas/cDU1272_MaS.aspx">MaS</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/cDU622_G-+en+LG-hockey.aspx">G- en LG-hockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/algemeen/cDU623_Algemeen.aspx">Algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/nieuws/cDU624_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/g+competitie/cDU625_G-Competitie+2011-2012.aspx">G Competitie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/lg+competitie/cDU626_LG-Competitie+2011-2012.aspx">LG Competitie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/g+en+lg+clubs/cDU627_G-+en+LG+Clubs.aspx">G en LG Clubs</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/kalender/cDU628_Kalender.aspx">Kalender</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/cDU629_Rolstoelhockey.aspx">Rolstoelhockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/algemeen/cDU630_Algemeen.aspx">Algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/nieuws/cDU631_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/e-hockey/cDU632_E-hockey.aspx">E-hockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/h-hockey/cDU633_H-hockey.aspx">H-hockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/clubs+adressen/cDU634_Rolstoelhockey+clubs.aspx">Clubs & Adressen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/kalender/cDU635_Kalender.aspx">Kalender</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/schoolhockey/cDU616_Schoolhockey.aspx">Schoolhockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/schoolhockey/algemeen/cDU617_Algemeen.aspx">Algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/schoolhockey/nat+shell+schoolhockey+competitie/cDU618_Schoolhockeycompetitie.aspx">Nat. Shell Schoolhockey competitie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/schoolhockey/good+practises/cDU930_Good+Practises.aspx">Good Practises</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/schoolhockey/funkey/cDU1267_Funkey.aspx">Funkey</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/competities+disciplines/tafeltennis/cDU1297_Tafeltennis.aspx">Tafeltennis</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/competities+disciplines/trimhockey/cDU643_Trimhockey.aspx">Trimhockey</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/algemeen/cDU644_Algemeen.aspx">Algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/nieuws/cDU645_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/coordinatoren/cDU646_Trimhockeycoördinatoren.aspx">Coordinatoren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/trimhockey+trainers/cDU647_Trimhockey+trainers.aspx">Trimhockey trainers</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/trimhockeyers/cDU648_Trimhockeyers.aspx">Trimhockeyers</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/toernooien/cDU649_Toernooien.aspx">Toernooien</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/competitie/cDU650_Competitie.aspx">Competitie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/competities+disciplines/trimhockey/contact/cDU651_Contact.aspx">Contact</a></li>
+                                    </ul>
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/clubs/cDU659_Club+en+Toernooi+info.aspx">Clubs</a>
+                    <ul class="Level2">
+					        <li class=""><a href="http://www.knhb.nl/clubs/nieuws/cDU660_Nieuws.aspx">Nieuws</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/club+info/cDU661_Club+info.aspx">Club info</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/bijzondere+leden/cDU1248_Bijzondere+leden.aspx">Bijzondere leden</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/cDU663_Ondersteuning.aspx">Verenigings- ondersteuning</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/accommodatie/cDU664_Accommodatie.aspx">Accommodatie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/benchmark/cDU693_Benchmark.aspx">Benchmark</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/commissies/cDU670_Commissies.aspx">Commissies</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/financieel+en+fiscaal+advies/cDU1304_Financieel+en+fiscaal+advies.aspx">Financieel en fiscaal advies</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/goed+sportbestuur/cDU1264_Goed+Sportbestuur.aspx">Goed Sportbestuur</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/juridisch+advies/cDU675_Gratis+juridische+dienstverlening.aspx">Juridisch advies</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/pr+communicatie/cDU677_PR+Communicatie.aspx">PR & Communicatie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/leden/cDU691_Leden.aspx">Leden</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/regels+wetten+en+verzekeringen/cDU1302_Regels+wetten+en+verzekeringen.aspx">Regels, wetten en verzekeringen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/sportiviteit+respect/cDU678_In+de+strijd+voor+sportiviteit.aspx">Sportiviteit & Respect</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/sociale+veiligheid/cDU684_Seksuele+intimidatie.aspx">Sociale Veiligheid</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/verenigings-+ondersteuning/vrijwilligers/cDU689_Vrijwilligers.aspx">Vrijwilligers</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/clubs/beleidsthemas/cDU694_Beleidsthemas.aspx">Beleidsthema's</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/combinatiefunctie/cDU695_Combinatiefunctie.aspx">Combinatiefunctie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/analyse+en+visie/cDU696_Analyse+en+Visie.aspx">Analyse en Visie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/kinderopvang/cDU698_Kinderopvang.aspx">Kinderopvang</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/beleid+algemeen/cDU699_Beleid+algemeen.aspx">Beleid algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/gemeente/cDU700_Gemeente.aspx">Gemeente</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/jong+volwassenen/cDU701_Jong+Volwassenen.aspx">Jong volwassenen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/strategie+sessies/cDU702_Strategie+sessie.aspx">Strategie sessies</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/clubs/beleidsthemas/gestructureerd+samenwerken+aan+succes/cDU958_Gestructureerd+samenwerken+aan+succes.aspx">Gestructureerd (samen)werken aan succes</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/oprichting+vereniging/cDU705_Oprichten+vereniging.aspx">Oprichting vereniging</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/bestelformulieren/cDU969_Bestelformulieren.aspx">Bestelformulieren</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/maatschappelijke+stages/cDU1250_Maatschappelijke+stages.aspx">Maatschappelijke stages</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/clubs/digitale+bestuurskamer/cDU1278_Digitale+Bestuurskamer.aspx">Digitale Bestuurskamer</a>
+					            
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/knhb+academie/cDU706_KNHB+Academie.aspx">KNHB Academie</a>
+                    <ul class="Level2">
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb+academie/algemeen/cDU1135_Algemeen.aspx">Algemeen</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/nieuws/cDU1136_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/beleid/cDU1137_Beleid.aspx">Beleid</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/medewerkers/cDU1138_Medewerkersters+KNHB+Academie.aspx">Medewerkers</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/beroepscode/cDU1139_Beroepscode.aspx">Beroepscode</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/leercoach+worden/cDU1140_Leercoach+worden.aspx">Leercoach worden?</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/trainingssheets/cDU1141_Trainingssheets.aspx">Trainingssheets</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/algemeen/oefenstof/cDU1143_Oefenstof.aspx">Oefenstof</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb+academie/deskundigheids-+bevordering/cDU1145_Deskundigheidsbevordering.aspx">Deskundigheids- bevordering</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/deskundigheids-+bevordering/congressen/cDU1146_Congressen.aspx">Congressen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/deskundigheids-+bevordering/materialen/cDU1206_Materialen.aspx">Materialen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/deskundigheids-+bevordering/hockeyvisie/cDU1280_Hockeyvisie.aspx">Hockeyvisie</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb+academie/verenigingsadvies/cDU1159_Verenigingsadvies.aspx">Verenigingsadvies</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/verenigingsadvies/consultancy+technisch+beleid/cDU1160_Consultancy+technisch+beleid.aspx">Consultancy technisch beleid</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/verenigingsadvies/clubthema-avonden/cDU1163_Clubthema-avonden.aspx">Clubthema-avonden</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb+academie/opleidingen/cDU1210_Opleidingen.aspx">Opleidingen</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/clubthema-avonden/cDU1317_Clubthema-avonden.aspx">Clubthema-avonden</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/hockeytrainer+2+-+jongste+jeugd/cDU1318_Hockeytrainer+2+-+Jongste+Jeugd.aspx">Hockeytrainer 2 - Jongste Jeugd</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/hockeytrainer+2+-+elftal/cDU1319_Hockeytrainer+2+-+Elftal.aspx">Hockeytrainer 2 - Elftal</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/hockeytrainer+3/cDU1320_Hockeytrainer+3.aspx">Hockeytrainer 3</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/hockeytrainer+4+trainercoach+b/cDU1321_Hockeytrainer+4+Trainer+Coach+B.aspx">Hockeytrainer 4 / Trainer/coach B</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/keeperstrainer/cDU1330_Keeperstrainer.aspx">Keeperstrainer</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/zaalhockey/cDU1333_Zaalhockey.aspx">Zaalhockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/elo/cDU1212_ELO.aspx">ELO</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb+academie/opleidingen/praktijkbegeleiders/cDU1311_Praktijkbegeleiders.aspx">Praktijkbegeleiders</a></li>
+                                    </ul>
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/arbitrage/cDU749_Arbitrage.aspx">Arbitrage</a>
+                    <ul class="Level2">
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/nieuws/cDU750_Nieuws.aspx">Nieuws</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/nieuws/beleid/cDU753_Beleid+arbitrage.aspx">Beleid</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/aanwijzingen+landelijk+en+evenementen/cDU1066_Aanwijzingen+landelijk+en+evenementen.aspx">Aanwijzingen landelijk en evenementen</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/internationaal/cDU767_Internationaal.aspx">Internationaal</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/districten/cDU940_Districten.aspx">Districten</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/midden+nederland/cDU949_Midden+Nederland.aspx">Midden Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/oost+nederland/cDU970_Oost+Nederland.aspx">Oost Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/noord-holland/cDU971_Noord-Holland.aspx">Noord-Holland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/noord+nederland/cDU972_Noord+Nederland.aspx">Noord Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/zuid+nederland/cDU973_Zuid+Nederland.aspx">Zuid Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/districten/zuid-holland/cDU974_Zuid-Holland.aspx">Zuid-Holland</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/verenigingen+en+scheidsrechters/cDU768_Verenigingen+en+scheidsrechters.aspx">Verenigingen en scheidsrechters</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/verenigingsadvies/cDU1279_Verenigingsadvies.aspx">Verenigingsadvies</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/opleidingen/cDU769_Opleidingen.aspx">Opleidingen</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/opleidingen/handboeken+en+handleidingen/cDU770_Handboeken+en+handleidingen.aspx">Handboeken en handleidingen</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/cDU773_Arbitrage.aspx">Spelregels en briefingen</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/spelreglement+veldhockey/cDU774_Spelreglement+veldhockey.aspx">Spelreglement veldhockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/spelreglement+zaalhockey/cDU775_Spelreglement+zaalhockey.aspx">Spelreglement zaalhockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/jongste+jeugd/cDU776_Jongste+jeugd.aspx">Jongste jeugd</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/briefingen/cDU777_Briefingen.aspx">Briefingen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/proefexamens/cDU778_Proefexamens.aspx">Proefexamens</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/spelregel+van+de+week/cDU779_Spelregel+van+de+week.aspx">Spelregel van de week</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/spelregels+en+briefingen/signalen+van+scheidsrechters/cDU781_Signalen+van+scheidsrechters.aspx">Signalen van scheidsrechters</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/cDU782_Formulieren.aspx">Formulieren arbitrage</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/clubscheidsrechter/cDU1299_Clubscheidsrechter.aspx">Clubscheidsrechter</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/bondsscheidsrechter+in+opleiding/cDU1300_Bondsscheidsrechter+in+opleiding.aspx">Bondsscheidsrechter (in opleiding)</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/scheidsrechterskaarten/cDU1301_Scheidsrechterskaarten.aspx">Scheidsrechterskaarten</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/declaraties/cDU786_Declaraties.aspx">Declaraties</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/formulieren+arbitrage/overige+formulieren/cDU787_Overig.aspx">Overige formulieren</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/tuchtcommissie/cDU788_Tuchtcommissie.aspx">Tuchtcommissie</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/arbitrage/bdo+arbitragecongres+2010/cDU1245_BDO+Arbitragecongres+2010.aspx">BDO Arbitragecongres 2010</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/bdo+arbitragecongres+2010/inschrijfformulier/cDU1246_Inschrijfformulier.aspx">Inschrijfformulier</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/arbitrage/bdo+arbitragecongres+2010/locatie+en+route/cDU1247_Locatie+en+route.aspx">Locatie en route</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/arbitrage/bdo+young+umpire+challenge/cDU1294_Inschrijving+BDO+Young+Umpire+Challenge+gesloten.aspx">BDO Young Umpire Challenge</a>
+					            
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/jeugd/cDU789_Jeugd.aspx">Jeugd</a>
+                    <ul class="Level2">
+					        <li class=""><a href="http://www.knhb.nl/jeugd/algemeen/cDU790_Algemeen.aspx">Algemeen</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/jeugd/ouders/cDU791_Ouders.aspx">Ouders</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/ouders/wat+is+hockey/cDU792_Wat+is+hockey.aspx">Wat is hockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/ouders/ouders+vereniging/cDU793_Ouders+vereniging.aspx">Ouders & vereniging</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/ouders/aandachtspunten+vereniging/cDU794_Aandachtspunten+vereniging.aspx">Aandachtspunten vereniging</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/ouders/tips+vereniging/cDU795_Tips+vereniging.aspx">Tips vereniging</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/jeugd/spreekbeurtpakket/cDU796_Informatie+voor+je+spreekbeurt.aspx">Spreekbeurtpakket</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/jeugd/kampen+en+clinics/cDU797_Kampen+en+Clinics.aspx">Kampen en Clinics</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/jeugd/knhb+jeugdpanel/cDU799_Jeugdpanel.aspx">KNHB Jeugdpanel</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/knhb+jeugdpanel/kalender/cDU800_Kalender.aspx">Kalender</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/knhb+jeugdpanel/nieuws/cDU801_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/knhb+jeugdpanel/tips+en+advies/cDU802_Tips+en+advies.aspx">Tips en advies</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/jeugd/knhb+jeugdpanel/wie+zijn+we/cDU803_Wie+zijn+we.aspx">Wie zijn we</a></li>
+                                    </ul>
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/kalender/cDU804_Kalender.aspx">Kalender</a>
+                    <ul class="Level2">
+					        <li class="has-sub "><a href="http://www.knhb.nl/kalender/toernooien/cDU805_Toernooien.aspx">Toernooien</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/kalender/toernooien/toernooi+aanmelden/cDU806_Toernooi+Aanmelden.aspx">Toernooi Aanmelden</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/kalender/evenementen/cDU807_Evenementen.aspx">Evenementen</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/kalender/cDU808_Kalender.aspx">Kalender</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/rabo+fih+champions+trophy+2011/cDU1292_Rabo+FIH+Champions+Trophy+2011.aspx">Rabo FIH Champions Trophy 2011</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/rabo+4-nations+cup+2011/cDU1293_Rabo+4-Nations+Cup+2011.aspx">Rabo 4-Nations Cup 2011</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/volvo+ek+u18/cDU1298_Volvo+EK+U18.aspx">Volvo EK U18</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/wk+2014/cDU1273_WK+2014+in+Den+Haag.aspx">WK 2014</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/kalender/evenementen/ek+2011+monchengladbach/cDU1337_EK+2011+Monchengladbach.aspx">EK 2011 Monchengladbach</a></li>
+                                    </ul>
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item"><a href="http://www.knhb.nl/knhb/cDU817_KNHB.aspx">KNHB</a>
+                    <ul class="Level2">
+					        <li class=""><a href="http://www.knhb.nl/knhb/nieuws/cDU821_Nieuws.aspx">Nieuws</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/nieuwsbrief/cDU1338_Nieuwsbrief.aspx">Nieuwsbrief</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/nieuwsbrief/nieuwsbrief+voor+verenigingen/cDU1339_Nieuwsbrief+voor+verenigingen.aspx">Nieuwsbrief voor verenigingen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/nieuwsbrief/juridische+nieuwsbrief/cDU1340_Juridische+nieuwsbrief.aspx">Juridische nieuwsbrief</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/organisatie/cDU818_Organisatie.aspx">Organisatie</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/organisatie/bondsbureau/cDU819_Bondsbureau.aspx">Bondsbureau</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/organisatie/qa/cDU1056_QA.aspx">Q&A</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/organisatie/contact/cDU820_Contact.aspx">Contact</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/media/cDU822_Media.aspx">Media</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/districten/cDU825_Districten.aspx">Districten</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+midden+nederland/cDU826_District+Midden+Nederland.aspx">District Midden Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+noord+holland/cDU834_District+Noord-Holland.aspx">District Noord Holland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+noord+nederland/cDU842_District+Noord+Nederland.aspx">District Noord Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+oost+nederland/cDU850_District+Oost+Nederland.aspx">District Oost Nederland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+zuid+holland/cDU858_District+Zuid+Holland.aspx">District Zuid Holland</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/districten/district+zuid+nederland/cDU866_District+Zuid+Nederland.aspx">District Zuid Nederland</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/beleid/cDU874_Beleid.aspx">Beleid</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/reglementen/cDU875_Reglementen.aspx">Reglementen</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/congressen+en+seminars/cDU876_Congressen+Seminars.aspx">Congressen en Seminars</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/nationaal+congres+2011/cDU1281_Nationaal+congres+2011.aspx">Nationaal congres 2011</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/nationaal+congres+2010/cDU877_Nationaal+Hockeycongres+2010.aspx">Nationaal congres 2010</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/hockey+sensation+2010/cDU1073_Shell+Hockey+Sensation+2010.aspx">Hockey Sensation 2010</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/hockey+sensation+2009/cDU882_Shell+Hockey+Sensation+2009.aspx">Hockey Sensation 2009</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/nationaal+congres+2008/cDU879_Nationaal+Hockeycongres+2008.aspx">Nationaal congres 2008</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/congressen+en+seminars/hockey+sensation+2008/cDU881_Hockey+Sensation+2008.aspx">Hockey Sensation 2008</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/vacatures+knhb/cDU884_Vacatures+knhb.aspx">Vacatures knhb</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/vacatures+clubs/cDU885_Vacatures+clubs.aspx">Vacatures clubs</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/ledencijfers/cDU886_Ledencijfers.aspx">Ledencijfers</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/besturen+commissies/cDU887_Besturen+commissies.aspx">Besturen & commissies</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/partners+knhb/cDU888_Partners+KNHB.aspx">Partners KNHB</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/speciale+leden/cDU889_Speciale+leden.aspx">Speciale leden</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/medische+zaken/cDU890_Medische+zaken.aspx">Medische zaken</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/medische+zaken/nieuws/cDU929_Nieuws.aspx">Nieuws</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/medische+zaken/algemeen/cDU928_Algemeen.aspx">Algemeen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/medische+zaken/blessurepreventie/cDU891_Blessurepreventie.aspx">Blessurepreventie</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/medische+zaken/doping/cDU1290_Doping.aspx">Doping</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/medische+zaken/meldpunt+hoofdblessures/cDU892_Meldpunt+hoofdblessures.aspx">Meldpunt hoofdblessures</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/knhb/sportorganisaties/cDU894_Sportorganisaties.aspx">Sportorganisaties</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/webshop/cDU1058_Webshop.aspx">Webshop</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/webshop/barong+barong/cDU1059_Barong+Barong+armbandjes.aspx">Barong Barong</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/webshop/diverse+artikelen/cDU1062_Diverse+artikelen.aspx">Diverse artikelen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/webshop/officieel+oranje+shirt/cDU1076_Officieel+oranje+shirt.aspx">Officieel oranje shirt</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/webshop/hockeyvisie+archief/cDU1254_Hockeyvisie.aspx">Hockeyvisie archief</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/webshop/hockeyvisie/cDU1303_Hockeyvisie.aspx">Hockeyvisie</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/knhb/fotos+hockeypedia/cDU1285_Foto+bestellen.aspx">Foto's hockeypedia</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/knhb/fotos+hockeypedia/fotos+hockeypedia/cDU1288_Fotos+Hockeypedia.aspx">Foto's Hockeypedia</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/fotos+hockeypedia/knhbjeroen+van+bergen/cDU1291_KNHBJeroen+van+Bergen.aspx">KNHB/Jeroen van Bergen</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/knhb/fotos+hockeypedia/recente+fotos/cDU1286_Fotos+2008+-+heden.aspx">Recente foto's</a></li>
+                                    </ul>
+					        </li>
+					    </ul></li>
+				
+					<li class="has-sub Level1Item active"><a href="http://www.knhb.nl/oranje/cDU899_Oranje.aspx">Oranje</a>
+                    <ul class="Level2">
+					        <li class=""><a href="http://www.knhb.nl/oranje/nieuws/cDU923_Nieuws.aspx">Nieuws</a>
+					            
+					        </li>
+					    
+					        <li class="has-sub active"><a href="http://www.knhb.nl/oranje/nationale+teams/cDU900_Nationale+teams+2011.aspx">Nationale teams</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/selectie+oranje+heren/cDU901_Selectie+Oranje+Heren.aspx">Selectie Oranje Heren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/wedstrijden+heren/cDU902_Wedstrijden.aspx">Wedstrijden heren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/selectie+oranje+dames/cDU903_Europees+Kampioen+2011.aspx">Selectie Oranje Dames</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/wedstrijden+dames/cDU904_Wedstrijden+dames.aspx">Wedstrijden dames</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/selectie+e-hockey/cDU1263_Selectie+E-hockey.aspx">Selectie E-hockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/programma+e-hockey/cDU1265_Programma+E-hockey.aspx">Programma E-hockey</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+teams/zaalhockey/cDU1070_Zaalhockey.aspx">Zaalhockey</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class="has-sub "><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/cDU905_Nationale+jeugdteams.aspx">Nationale jeugdteams</a>
+					            <ul class="Level3">
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/jong+oranje+heren/cDU906_Jong+Oranje+heren.aspx">Jong Oranje heren</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/jong+oranje+dames/cDU907_Jong+Oranje+dames+2010.aspx">Jong Oranje dames</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/nederlands+a+jongens/cDU908_Nederlands+A+jongens.aspx">Nederlands A jongens</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/nederlands+a+meisjes/cDU909_Nederlands+A+meisjes.aspx">Nederlands A meisjes</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/nederlands+b+jongens/cDU910_Nederlands+B+jongens.aspx">Nederlands B jongens</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/nederlands+b+meisjes/cDU911_Nederlands+B+meisjes.aspx">Nederlands B meisjes</a></li>
+                                    
+                                        <li class=""><a href="http://www.knhb.nl/oranje/nationale+jeugdteams/selectie+jeugd+olympische+spelen+2010/cDU1252_Team+Jeugd+Olympische+Spelen+2010.aspx">Selectie Jeugd Olympische Spelen 2010</a></li>
+                                    </ul>
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/oranje/interlandhistorie/cDU913_Interlandhistorie.aspx">Interlandhistorie</a>
+					            
+					        </li>
+					    
+					        <li class=""><a href="http://www.knhb.nl/oranje/fotos+oude+selecties/cDU915_Oude+selecties.aspx">Foto's oude selecties</a>
+					            
+					        </li>
+					    </ul></li>
+				
+		</ul>
+	</span>
+</div>
+</div>
+
+	<div class="contPageNavigation">
+		
+<LINK href="css2/usrCntrl_Submenu.css" type="text/css" rel="stylesheet" media="screen">
+<div class="navStart" >&nbsp;</div>
+<div class="contLocLevelUpMap">
+<ul><li><h2><a href="http://www.knhb.nl/competities+disciplines/cDU591_Competitie.aspx" class="hrefLocLevelUpMapItem">Competities & disciplines</a></h2></li></ul>
+</div>
+<div class="contSubMenu">
+	
+			<ul>
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/standenmotor/cDU592_Standenmotor.aspx" class="has-sub hrefSubMenuItem activeItem">Standenmotor
+				</a>
+			</li>
+			
+					<ul>
+				
+					<li>
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx" class="hrefSubMenuItem activeItem"><div> Standenmotor</div>
+						</a>
+					</li>
+					<ul></ul>					
+				
+					<li>
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor-zaal/cDU594_Standenmotor-Zaal.aspx" class="hrefSubMenuItem"><div> Standenmotor-Zaal</div>
+						</a>
+					</li>
+										
+				
+					<li>
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor-bedrijf/cDU595_Standenmotor-Bedrijf.aspx" class="hrefSubMenuItem"><div> Standenmotor-Bedrijf</div>
+						</a>
+					</li>
+										
+				
+					</ul>
+				
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/algemeen/cDU938_Algemeen.aspx" class="hrefSubMenuItem">Algemeen
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/afgelastingen/cDU652_Alles+over+afgelastingen.aspx" class="hrefSubMenuItem">Afgelastingen
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/nieuws/cDU931_Nieuws.aspx" class="hrefSubMenuItem">Nieuws
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/support+clubs/cDU658_Support+clubs.aspx" class="hrefSubMenuItem">Support clubs
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/support+clubs+rabo+hoofdklasse/cDU657_Support+clubs+Rabo+Hoofdklasse.aspx" class="hrefSubMenuItem">Support clubs Rabo Hoofdklasse
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/support+clubs+overgangsklasse/cDU1335_Support+Overgangsklasse.aspx" class="hrefSubMenuItem">Support clubs Overgangsklasse
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/protestcommissie/cDU1064_Protestcommissie.aspx" class="hrefSubMenuItem">Protestcommissie
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/tuchtcommissie/cDU653_Tuchtzaken.aspx" class="has-sub hrefSubMenuItem">Tuchtcommissie
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/wedstrijdsecretaris/cDU598_Inloggen+weds+secretaris.aspx" class="hrefSubMenuItem">Wedstrijdsecretaris
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/veldhockey/cDU599_Veldhockey.aspx" class="has-sub hrefSubMenuItem">Veldhockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/zaalhockey/cDU609_Zaalhockey.aspx" class="has-sub hrefSubMenuItem">Zaalhockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/beach+hockey/cDU637_Beach+Hockey.aspx" class="hrefSubMenuItem">Beach Hockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/bedrijfshockey/cDU611_Bedrijfshockey.aspx" class="has-sub hrefSubMenuItem">Bedrijfshockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/fithockey/cDU638_Fithockey.aspx" class="has-sub hrefSubMenuItem">Fithockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/funkey/cDU1268_Funkey.aspx" class="has-sub hrefSubMenuItem">Funkey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/g-+en+lg-hockey/cDU622_G-+en+LG-hockey.aspx" class="has-sub hrefSubMenuItem">G- en LG-hockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/rolstoelhockey/cDU629_Rolstoelhockey.aspx" class="has-sub hrefSubMenuItem">Rolstoelhockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/schoolhockey/cDU616_Schoolhockey.aspx" class="has-sub hrefSubMenuItem">Schoolhockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/tafeltennis/cDU1297_Tafeltennis.aspx" class="hrefSubMenuItem">Tafeltennis
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			<li>
+				<a href="http://www.knhb.nl/competities+disciplines/trimhockey/cDU643_Trimhockey.aspx" class="has-sub hrefSubMenuItem">Trimhockey
+				</a>
+			</li>
+			
+			
+			
+			
+		
+		
+			</ul>
+		
+</div>
+
+	</div>
+	<div class="contPageContent">
+		
+<!--<LINK media="screen" href="css2/usrCntrl_LocationIndicator.css" type="text/css" rel="stylesheet">-->
+<link media="screen" href="css2/usrCntrl_LocationIndicator.css" type="text/css" rel="stylesheet" />
+
+
+<div class="pageHeader ">
+	<!-- indien geen overviewCategory dan dit tonen //-->
+	<div class="hdrTxtOverlay">Competities & disciplines</div>
+</div>
+
+<!--<LINK media="screen" href="css2/usrCntrl_LocationIndicator.css" type="text/css" rel="stylesheet">-->
+<link media="screen" href="css2/usrCntrl_LocationIndicator.css" type="text/css" rel="stylesheet" />
+
+	
+			<div class="previousLocations">
+		
+			<a href="http://www.knhb.nl/cDU590_Welkom.aspx" class="hrefLocIndic" title="Ga naar Homepage">Homepage _</a>
+		
+			<a href="http://www.knhb.nl/competities+disciplines/cDU591_Competitie.aspx" class="hrefLocIndic" title="Ga naar Competities & disciplines">Competities & disciplines _</a>
+		
+			<a href="http://www.knhb.nl/competities+disciplines/standenmotor/cDU592_Standenmotor.aspx" class="hrefLocIndic" title="Ga naar Standenmotor">Standenmotor _</a>
+		
+			<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx" class="hrefLocIndic" title="Ga naar Standenmotor">Standenmotor _</a>
+		
+			</div>
+		
+<link media="screen" href="css2/usrCntrl_DocumentBody.css" type="text/css" rel="stylesheet" />
+
+
+<div class="pageBodyContent">
+	 
+	<h1 >Standenmotor<br /></h1>
+	
+	<p>Het is niet toegestaan gegevens van&nbsp;de standenmotor&nbsp;te kopiëren of te integreren in een niet KNHB gerelateerde website of andere applicatie. Officiële clubwebsites kunnen wel gebruikmaken van de gegevens.</p>
+<h2 style="text-align: left;"> </h2>
+<div style="text-align: right;">&nbsp;</div>
+<div style="text-align: right;">&nbsp;<a href="http://www.knhb.nl/competities+disciplines/afgelastingen/cDU652_Alles+over+afgelastingen.aspx"><img alt="" width="174" height="38" src="http://live.beheer.knhb.nl/I_API/downloadAttachment.aspx?intAttachmentSetId=20464&intCacheTime=10080" /></a><br />
+</div>
+<br />
+<div style="text-align: right;"><a href="http://www.hockey.nl/12528/mobiel"><img alt="" src="http://live.beheer.knhb.nl/I_API/downloadAttachment.aspx?intAttachmentSetId=20238&intCacheTime=10080" /></a></div>
+</div>
+<script type="text/javascript">
+    var popinWindow
+
+    function openPopin(intAttachmentId) {
+
+                popinWindow = Aspacts.Idios3.I_CAP.Scripting.InlineWin.OpenPopinUrl('/ContentControls/Documents/FlashAttachmentViewer.aspx?intContentObjectId=10503&intAttachmentId=' + intAttachmentId, 815, 696);
+       
+    }        
+</script>
+	<LINK media="screen" href="css2/styleStandenmotor.css" type="text/css" rel="stylesheet" />
+
+
+
+    <style type="text/css">
+        .InlineWin_container 
+        {
+        	background-color:White;
+        }
+    </style>
+    
+	<script type="text/javascript"> 
+		var fnExecuteCustomFilter = function(objFilter) {
+			
+			var btSavePrefs = false;
+			var cbxSavePrefs = document.getElementById('objSavePreferences');
+			if (cbxSavePrefs && cbxSavePrefs.checked) {
+				btSavePrefs = true;
+			};
+			
+			// Try to store cookie (option for Hockey.nl)
+			if (btSavePrefs) {
+				if ((window.parent) && (window.parent != window) && (window.parent.fnSavePrefs)) {
+					window.parent.fnSavePrefs(objFilter.fnGetFilterHash());
+				}
+			}
+
+			// Redirect or execute filter						
+			if (window.fnKnhbCustomRedirect) {
+				fnKnhbCustomRedirect(objFilter, btSavePrefs);
+			} else {
+				objFilter.fnExecuteFilter();
+			}
+		} 
+		
+		try {
+		    document.domain = 'standenmotor.';
+		} catch (e) {
+			
+		}
+		
+	</script>
+	
+
+	
+
+<script type="text/javascript" src="applications/competitionhockey/js/searchclub_ClubName.js"></script>
+<div class="pageBodyContent searchStandenMotor">
+	<div class="resultsStandenMotor">
+		<p>
+			Zoeken op: <a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=U1Q9Qw==" class="activePage">Club &amp; team</a>
+			| <a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=U1Q9UA==" class="hrefPageIndex">Competitie &amp; Poule</a>
+			
+		</p>
+	</div>
+	<h3>Kies club, doelgroep &amp; geslacht:<br />
+		<br>
+	</h3>
+	<div class="frmStandenMotor" id="frmStandenMotor">
+		<p class="fullColumn">
+			<!--<input name="rdoClubDepartment" type="radio" id="objClubName" checked> --><label class="lblForm">
+				Club:</label><select name="ctl04$ctl09$ctl01$ctl00$ddlClubs" id="ctl04_ctl09_ctl01_ctl00_ddlClubs" class="lstStandenMotor" onchange="fnCompClubChange(this.value)">
+	<option value="-1">- Kies Club -</option>
+	<option value="HH11AA4">Abcoude</option>
+	<option value="HH11AB1">ABS</option>
+	<option value="HH11AC8">Adelborsten</option>
+	<option value="HH11AG6">Alecto</option>
+	<option value="HH11AH3">Alkemade</option>
+	<option value="HH11AJ7">Alkmaar</option>
+	<option value="HH11AK4">Alliance</option>
+	<option value="HH11AL1">Almelo</option>
+	<option value="HH11AM8">Almere</option>
+	<option value="HH11AN5">Alphen</option>
+	<option value="HH11AP9">Amersfoort</option>
+	<option value="HH11AQ6">Amstelveen</option>
+	<option value="HH11AR3">Amsterdam</option>
+	<option value="HH11AS0">AMVJ</option>
+	<option value="LX39QN5">Antwerp</option>
+	<option value="HH11AV1">Apeldoorn</option>
+	<option value="HH11AW8">Apeliotes</option>
+	<option value="HH11AX5">Ares</option>
+	<option value="HH11AY2">Arnhem</option>
+	<option value="HH11AZ9">Asvion</option>
+	<option value="LV95KY6">AthenA</option>
+	<option value="HH11BB4">Avanti</option>
+	<option value="HH11BC1">Baarn</option>
+	<option value="HH11BD8">Bakel</option>
+	<option value="HH11BF2">Barendrecht</option>
+	<option value="HH11BG9">Barneveld</option>
+	<option value="HH11BH6">Basko</option>
+	<option value="HH11BJ0">Bedum</option>
+	<option value="HH11BK7">Bemmel</option>
+	<option value="HH11BL4">Bennebroek</option>
+	<option value="HH11BN8">Berkel Enschot</option>
+	<option value="HH11BP2">Berkel Rodenrijs</option>
+	<option value="HH11BQ9">Berlicum</option>
+	<option value="HH11BR6">Best</option>
+	<option value="HH11BS3">Beuningen</option>
+	<option value="HH11BT0">Bleiswijk</option>
+	<option value="HH11BV4">Blerick</option>
+	<option value="HH11BW1">Bloemendaal</option>
+	<option value="HH11BX8">Bodegraven</option>
+	<option value="HH11BY5">Boekel</option>
+	<option value="HH11BZ2">Bommelerwaard</option>
+	<option value="HH11CB7">Boxmeer</option>
+	<option value="HH11CC4">Breda</option>
+	<option value="MG21QL8">Buitenhout</option>
+	<option value="HH11CD1">Bully</option>
+	<option value="HH11CG2">Cadetten</option>
+	<option value="HH11CH9">Capelle</option>
+	<option value="HH11CJ3">Cartouche</option>
+	<option value="HH11CK0">Castricum</option>
+	<option value="HH11CL7">Catwijck</option>
+	<option value="HH11CM4">Civicum</option>
+	<option value="HH11CN1">Coevorden</option>
+	<option value="HH11CP5">Concordia</option>
+	<option value="HH11CQ2">Craeyenhout</option>
+	<option value="HH11CR9">Cranendonck</option>
+	<option value="HH11CS6">Culemborg</option>
+	<option value="HH11CT3">Dalfsen</option>
+	<option value="HH11CV7">Daring</option>
+	<option value="HH11CW4">Dash</option>
+	<option value="HH11DQ5">DDHC</option>
+	<option value="HH11HM9">Den Bosch</option>
+	<option value="HH11CY8">Derby</option>
+	<option value="HH11CX1">DES</option>
+	<option value="HH11CZ5">Deurne</option>
+	<option value="HH11DB0">Deventer</option>
+	<option value="HH11DC7">Dieren</option>
+	<option value="HH11DD4">Doetinchem</option>
+	<option value="HH11DF8">Dommel</option>
+	<option value="HH11DG5">Don Quishoot</option>
+	<option value="HH11DH2">Doorn</option>
+	<option value="HH11DJ6">Dopie</option>
+	<option value="HH11DK3">Dordrecht</option>
+	<option value="HH11DL0">Dorsteti</option>
+	<option value="HH11DM7">Drienerlo</option>
+	<option value="HH11DN4">Drunen</option>
+	<option value="MD56QY6">Druten</option>
+	<option value="HH11DP8">DSHC</option>
+	<option value="HH11DR2">DVS</option>
+	<option value="HH11DS9">Ede</option>
+	<option value="HH11DT6">Eelde</option>
+	<option value="HH11DV0">Eemsmond</option>
+	<option value="HH11CF5">Eemvallei</option>
+	<option value="HH11DW7">Eersel</option>
+	<option value="HH11DX4">EHV</option>
+	<option value="HH11DY1">Eindhoven</option>
+	<option value="HH11DZ8">EMHC</option>
+	<option value="HH11FB6">Emmen</option>
+	<option value="HH11FC3">Epe</option>
+	<option value="HH11FD0">Etten-Leur</option>
+	<option value="HH11FF4">Evergreen</option>
+	<option value="MJ21QV9">Feijenoord</option>
+	<option value="HH11FG1">FIT</option>
+	<option value="HH11FH8">Fletiomare</option>
+	<option value="HH11FJ2">Flevoland</option>
+	<option value="HH11FK9">Forcial</option>
+	<option value="HH11FL6">Forescate</option>
+	<option value="HH11FN0">GCHC</option>
+	<option value="HH11FP4">Geel-Zwart</option>
+	<option value="HH11FQ1">Geldermalsen</option>
+	<option value="HH11FR8">Geldrop</option>
+	<option value="HH11FS5">Gemert</option>
+	<option value="HH11FT2">GHBS</option>
+	<option value="HH11FV6">Gilze-Rijen</option>
+	<option value="HH11FW3">Goes</option>
+	<option value="HH11FX0">Goirle</option>
+	<option value="HH11FY7">Gooische</option>
+	<option value="HH11FZ4">Goor</option>
+	<option value="HH11GB9">Gouda</option>
+	<option value="HH11GC6">Graspiepers</option>
+	<option value="HH11GD3">Grave</option>
+	<option value="HH11GF7">Groen Geel</option>
+	<option value="HH11GH1">Gron.Studs</option>
+	<option value="HH11GG4">Groningen</option>
+	<option value="HH11GJ5">Haackey</option>
+	<option value="HH11GK2">Haarlem</option>
+	<option value="HH11GL9">Haaskamp</option>
+	<option value="HH11GM6">Hardenberg</option>
+	<option value="HH11GN3">Harlingen</option>
+	<option value="HH11GP7">Hattem</option>
+	<option value="HH11GQ4">HBS</option>
+	<option value="HH11GR1">HCAS</option>
+	<option value="HH11GS8">HCGO</option>
+	<option value="HH11HH4">HCHN</option>
+	<option value="HH11LB4">HCM</option>
+	<option value="MG26YY8">HCRB</option>
+	<option value="HH11GT5">HCSO</option>
+	<option value="HH11GV9">HCW (Winschoten)</option>
+	<option value="HH11HD6">HDL</option>
+	<option value="HH11GW6">hdm</option>
+	<option value="HH11GX3">HDS</option>
+	<option value="HH11GY0">Heerhugowaard</option>
+	<option value="HH11GZ7">Heerlen</option>
+	<option value="HH11HC9">Heesch</option>
+	<option value="HH11HF0">Heeze</option>
+	<option value="HH11HJ8">Helmond</option>
+	<option value="HH11HL2">Hermes</option>
+	<option value="HH11HN6">HGC</option>
+	<option value="HH11HP0">HIC</option>
+	<option value="HH11HQ7">Hilvarenbeek</option>
+	<option value="HH11HR4">Hilversum</option>
+	<option value="HH11HS1">Hisalis</option>
+	<option value="HM66WT8">HKPCL</option>
+	<option value="HM66TT9">HKVNOC</option>
+	<option value="HH11HW9">Hockeer</option>
+	<option value="HH11HX6">HOCO</option>
+	<option value="HH11HY3">HOD</option>
+	<option value="HH11HZ0">Hoeksche Waard</option>
+	<option value="HH11JB8">Hoevelaken</option>
+	<option value="HH11JC5">Holestick</option>
+	<option value="HH11JD2">Holten</option>
+	<option value="HH11JF6">Hondsrug</option>
+	<option value="HH11JG3">Hoogeveen</option>
+	<option value="HH11JJ4">Hopbel</option>
+	<option value="HH11JK1">Horst</option>
+	<option value="HH11JL8">Houten</option>
+	<option value="HH11JM5">HSD</option>
+	<option value="HH11JP6">HUDITO</option>
+	<option value="HH11JQ3">Huizen</option>
+	<option value="HH11JR0">Hurley</option>
+	<option value="HH11JS7">HVA</option>
+	<option value="MG20CJ7">IJburg</option>
+	<option value="HH11RX6">IJssel</option>
+	<option value="HH11RZ0">IJsseloever</option>
+	<option value="HH11JT4">Kampen</option>
+	<option value="HH11JV8">Kampong</option>
+	<option value="MJ70MY8">Keramikos</option>
+	<option value="HH11JX2">Kerkrade</option>
+	<option value="HH11JY9">Kieviten</option>
+	<option value="HH11JZ6">Kikkers</option>
+	<option value="HH11KB1">Klein Zwitserland</option>
+	<option value="HM66YV8">Kors Kornuiten</option>
+	<option value="HH11KC8">Kraaien</option>
+	<option value="HH11KD5">Krimpen</option>
+	<option value="HH11KF9">Kromhouters</option>
+	<option value="HH11KG6">Laren</option>
+	<option value="HH11KH3">Leerdam</option>
+	<option value="HH11KJ7">Leeuwarden</option>
+	<option value="HH11KK4">Leiden</option>
+	<option value="HH11KL1">Leidse Studs</option>
+	<option value="HH11KM8">Lelystad</option>
+	<option value="LV95KZ3">Lemmer</option>
+	<option value="HH11KN5">Leonidas</option>
+	<option value="HH11KP9">Leusden</option>
+	<option value="HH11KQ6">Liberty</option>
+	<option value="HH11KR3">Liempde</option>
+	<option value="HH11KS0">Lochem</option>
+	<option value="HH11KT7">Loenen</option>
+	<option value="HH11KV1">Maarn</option>
+	<option selected="selected" value="HH11KW8">Maarssen</option>
+	<option value="HH11KX5">Maastricht</option>
+	<option value="HH11KY2">Made</option>
+	<option value="HH11KZ9">Magnus</option>
+	<option value="HH11LD8">Meerssen</option>
+	<option value="HH11LF2">Meeuwen</option>
+	<option value="HH11LG9">MEP</option>
+	<option value="HH11LH6">Meppel</option>
+	<option value="HH11LJ0">Mezen</option>
+	<option value="HH11LL4">Mierlo</option>
+	<option value="HH11LT0">Mijdrecht</option>
+	<option value="HH11LM1">Mill</option>
+	<option value="HH11LN8">Mistral</option>
+	<option value="HH11LQ9">Montfoort</option>
+	<option value="HH11LR6">MOP</option>
+	<option value="HH11LS3">Muiderberg</option>
+	<option value="HH11LV4">Myra</option>
+	<option value="HH11LW1">Naarden</option>
+	<option value="HH11LX8">Nieuwegein</option>
+	<option value="HH11LY5">Nieuwkoop</option>
+	<option value="HH11MF5">Nijkerk</option>
+	<option value="HH11MG2">Nijmegen</option>
+	<option value="HH11LZ2">Noordwijk</option>
+	<option value="HH11MB7">Nuenen</option>
+	<option value="HH11MC4">Nunspeet</option>
+	<option value="HH11MD1">Nuth</option>
+	<option value="HH11MH9">Oedenrode</option>
+	<option value="HH11MJ3">Oirschot</option>
+	<option value="HH11MK0">Olympia</option>
+	<option value="HH11ML7">Ommen</option>
+	<option value="HH11MM4">Ommoord</option>
+	<option value="HH11MN1">Oosterbeek</option>
+	<option value="HH11MP5">Oranje Zwart</option>
+	<option value="HH11MQ2">Oss</option>
+	<option value="MJ56CW2">Oude IJsselstreek</option>
+	<option value="HH11MR9">Oudenbosch</option>
+	<option value="MD56QW2">Overbetuwe</option>
+	<option value="HH11MS6">Overbos</option>
+	<option value="HH11HG7">Peel en Maas</option>
+	<option value="HH11MT3">Pelikaan</option>
+	<option value="HH11MV7">Phoenix</option>
+	<option value="HH11NF8">Pijnacker</option>
+	<option value="HH11MW4">Pinok&#233;</option>
+	<option value="HH11MX1">Pollux</option>
+	<option value="HH11MY8">Porre</option>
+	<option value="HH11MZ5">Prinsenbeek</option>
+	<option value="HH11NB0">Purmerend</option>
+	<option value="HH11NC7">Push</option>
+	<option value="HH11ND4">PW</option>
+	<option value="HH11NJ6">Qui Vive</option>
+	<option value="HH11NH2">Quick Stick</option>
+	<option value="HH11NG5">QZ</option>
+	<option value="HH11NL0">Rapid</option>
+	<option value="HH11NM7">Rapide</option>
+	<option value="HH11NQ5">Reigers</option>
+	<option value="HH11NY1">Rijswijk</option>
+	<option value="HH11NR2">Ring Pass Delft</option>
+	<option value="HH11NS9">Roden</option>
+	<option value="HH11NT6">Rood-Wit</option>
+	<option value="HH11NV0">Roomburg</option>
+	<option value="HH11NW7">Rosmalen</option>
+	<option value="HH11NX4">Rotterdam</option>
+	<option value="HH11NZ8">Salland</option>
+	<option value="HH11PB6">Saxenburg</option>
+	<option value="HH11PC3">Schaerweijde</option>
+	<option value="HH11PD0">SCHC</option>
+	<option value="HH11PH8">Schoonhoven</option>
+	<option value="HH11PF4">Scoop</option>
+	<option value="MD54ZN6">Scoop Delft</option>
+	<option value="HH11PG1">Shinty</option>
+	<option value="HH11PJ2">Shot</option>
+	<option value="HH11PK9">Sjinborn</option>
+	<option value="HH11PL6">Sneek</option>
+	<option value="HH11PM3">Soest</option>
+	<option value="HH11PN0">Son</option>
+	<option value="HH11PP4">Souburgh</option>
+	<option value="MJ18RY7">Spaarndam</option>
+	<option value="HH11PQ1">Spandersbosch</option>
+	<option value="HH11PV6">Spijkenisse</option>
+	<option value="HH11PS5">Spirit</option>
+	<option value="HH11PT2">Spitsbergen</option>
+	<option value="HH11PW3">Steenwijk</option>
+	<option value="MG20CZ9">Stix</option>
+	<option value="HH11PX0">Strawberries</option>
+	<option value="HH11PY7">Tegelen</option>
+	<option value="HH11QB9">Tempo</option>
+	<option value="HH11QC6">Tempo '34</option>
+	<option value="HH11QD3">Tempo '41</option>
+	<option value="HH11QF7">Terri&#235;rs</option>
+	<option value="LX34HC6">Test SLC</option>
+	<option value="LX44QG2">Testclub1</option>
+	<option value="LX44QJ3">Testclub2</option>
+	<option value="HP19WC0">Testpcleden</option>
+	<option value="HH11QG4">Teteringen</option>
+	<option value="MJ21QX3">Thor</option>
+	<option value="MJ56BV2">Tilburg (fusie)</option>
+	<option value="MF96PX4">Twello</option>
+	<option value="HH11QJ5">Twente</option>
+	<option value="HH11QK2">Uden</option>
+	<option value="HH11QL9">Udenhout</option>
+	<option value="HH11QM6">Uitgeest</option>
+	<option value="HH11QN3">Union</option>
+	<option value="HH11QP7">Upward</option>
+	<option value="HH11QQ4">USHC</option>
+	<option value="HH11QS8">Venlo</option>
+	<option value="HH11QT5">Venray</option>
+	<option value="HH11QV9">Vianen</option>
+	<option value="HH11QW6">Victoria</option>
+	<option value="HH11QY0">Vlijmen</option>
+	<option value="HH11QZ7">Voordaan</option>
+	<option value="HH11RB2">Voorhout</option>
+	<option value="HH11RC9">Voorne</option>
+	<option value="HH11RD6">VVV</option>
+	<option value="HH11RF0">Waalwijk</option>
+	<option value="HH11RG7">Waddinxveen</option>
+	<option value="HH11RJ8">Wageningen</option>
+	<option value="MJ56CY6">Walcheren</option>
+	<option value="HH11RK5">Warande</option>
+	<option value="LV95LB8">Wateringse veld</option>
+	<option value="MJ18TR4">Waterland</option>
+	<option value="HH11RL2">Weert</option>
+	<option value="HH11RM9">Weesp</option>
+	<option value="HH11RN6">Were Di</option>
+	<option value="HH11RQ7">Westerduiven</option>
+	<option value="HH11RR4">Westerkwartier</option>
+	<option value="MF15SY7">Westerpark</option>
+	<option value="HH11RS1">Westland</option>
+	<option value="MJ66NQ4">WFHC Enkhuizen</option>
+	<option value="HH11JH0">WFHC Hoorn</option>
+	<option value="HH11PR8">WFHC Spire</option>
+	<option value="HH11RW9">Wijchen</option>
+	<option value="HH11RT8">Winsum</option>
+	<option value="HH11RV2">Woerden</option>
+	<option value="HH11RY3">Xenios</option>
+	<option value="LX34VT7">Ypenburg</option>
+	<option value="HH11SB5">Zandvoort</option>
+	<option value="HH11SC2">Zeewolde</option>
+	<option value="HH11SD9">Zevenaar</option>
+	<option value="HH11SF3">Zevenbergen</option>
+	<option value="HH11SG0">Zoetermeer</option>
+	<option value="HH11SH7">ZOW</option>
+	<option value="HH11SJ1">Zundert</option>
+	<option value="HH11SK8">Zutphen</option>
+	<option value="MG20WT7">Zwaluwen</option>
+	<option value="HH11SL5">Zwart-Wit</option>
+	<option value="HH11SM2">Zwolle</option>
+
+</select>
+			<span id="autocompleteSpan" style="DISPLAY: none">
+			<input name="ctl04$ctl09$ctl01$ctl00$tbxClubName" type="text" value="Maarssen" id="ctl04_ctl09_ctl01_ctl00_tbxClubName" class="tbxClubName" />
+			<input name="ctl04$ctl09$ctl01$ctl00$tbxClubId" type="text" value="HH11KW8" id="ctl04_ctl09_ctl01_ctl00_tbxClubId" style="display:none" />
+			</span>
+			<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /-->
+		</p>
+		<p class="fullColumn hideForHockey"><label class="lblForm">&nbsp;</label>
+			<input id="ctl04_ctl09_ctl01_ctl00_chkClubMode" type="checkbox" name="ctl04$ctl09$ctl01$ctl00$chkClubMode" onclick="fnClickClubMode();" /><label for="ctl04_ctl09_ctl01_ctl00_chkClubMode"> Wedstrijdsecretaris (volledige club informatie)</label>
+		</p>
+		<!--<p class="rightColumn">
+			<input type="radio" id="objDepartmentName" name="rdoClubDepartment" >
+			<label for="objDepartmentName">Afdeling:</label><select class="lstStandenMotor" disabled>
+				<option selected>[afdeling]</option>
+				<option>aaa</option>
+			</select>
+		</p>-->
+		<p class="fullColumn">
+			<label class="lblForm">Soort:</label>
+			<select name="ctl04$ctl09$ctl01$ctl00$ddlCompetitionKind" id="ctl04_ctl09_ctl01_ctl00_ddlCompetitionKind" class="lstStandenMotor" onchange="fnCompKindChange(this.value)">
+	<option value="-1">- Kies Soort -</option>
+	<option value="O">Dames veteranen doordeweeks</option>
+	<option value="Y">Jongste Jeugd</option>
+	<option selected="selected" value="D">Reguliere competitie</option>
+
+</select>
+		</p>
+		<p class="fullColumn targetGroup">
+			<label class="lblForm">Doelgroep:</label>
+			<select name="ctl04$ctl09$ctl01$ctl00$ddlAgeClassCode" id="ctl04_ctl09_ctl01_ctl00_ddlAgeClassCode" class="lstStandenMotor" onchange="fnCompAgeClassCodeChange(this.value)">
+	<option value="-1">- Kies Doelgroep -</option>
+	<option value="002">Junioren A (J)</option>
+	<option value="012">Junioren A (M)</option>
+	<option value="003">Junioren B (J)</option>
+	<option value="013">Junioren B (M)</option>
+	<option value="004">Junioren C (J)</option>
+	<option value="014">Junioren C (M)</option>
+	<option value="005">Junioren D (J)</option>
+	<option value="015">Junioren D (M)</option>
+	<option value="011">Senioren (D)</option>
+	<option selected="selected" value="001">Senioren (H)</option>
+
+</select>
+		</p>
+		<p class="fullColumn">
+			<label class="lblForm" title="Hockey discipline">Geslacht:</label>
+			<select name="ctl04$ctl09$ctl01$ctl00$ddlTeamSex" id="ctl04_ctl09_ctl01_ctl00_ddlTeamSex" class="lstStandenMotor sex" onchange="fnCompTeamSexChange(this.value)">
+	<option value="-1">- Kies M/V -</option>
+	<option selected="selected" value="1">Heren / Jongens</option>
+
+</select>
+		</p>
+		<!--<p class="leftColumn">
+			<label class="lblForm">Team:</label>
+			<select class="lstStandenMotor">
+				<option selected>[Kies team]</option>
+				<option></option>
+			</select>
+		</p>-->
+		<p class="fullColumn"><label class="lblForm">&nbsp;</label> <input type="checkbox" name="chkSavePreferences" id="objSavePreferences"><label for="objSavePreferences"> Gegevens 
+				opslaan voor een volgend bezoek</label>
+		</p>
+		<p class="fullColumn"> 
+			<input id="btnCompetitionResult" name="btnSearch" onclick="fnCheckAndSubmitCompetition('R')" type="button" value="uitslagen en standen" class="btnButton"> 
+			<input id="btnCompetitionSchedule" name="btnSearch" onclick="fnCheckAndSubmitCompetition('P')" type="button" value="programma" class="btnButton"> 
+			<input id="btnCompetitionResultMatrix" name="btnSearch" onclick="fnCheckAndSubmitCompetition('M')" type="button" value="schema" class="btnButton"> 
+			<span> <input id="btnShowFreeTeams" name="btnSearch" onclick="fnCheckAndSubmitCompetition('FT')" type="button" value="vrije teams" class="btnButton"></span>
+		</p>
+	</div>
+</div>
+<script type="text/javascript" src="applications/competitionhockey/js/BrowserDetect.js"></script>
+<script language="javascript" type="text/javascript">
+
+			var lstDdlClubs = document.getElementById("ctl04_ctl09_ctl01_ctl00_ddlClubs")
+			var lstDdlAgeClassCode = document.getElementById("ctl04_ctl09_ctl01_ctl00_ddlAgeClassCode")
+			var lstDdlTeamSex = document.getElementById("ctl04_ctl09_ctl01_ctl00_ddlTeamSex")
+			var lstDdlCompetitionKind = document.getElementById("ctl04_ctl09_ctl01_ctl00_ddlCompetitionKind")
+			var chkClubMode = document.getElementById("ctl04_ctl09_ctl01_ctl00_chkClubMode")
+			var chkPref = document.getElementById("objSavePreferences")
+			
+			var strCurrentSportId = "FIELDHOCKEY-VE-WK"
+			
+			var browserOk = false
+			if (BrowserDetect.browser == 'Explorer')
+			{
+				if (BrowserDetect.version != 'unknown')
+				{
+					if (parseFloat(BrowserDetect.version) >= 7)
+						browserOk = true
+				}
+			}
+			
+			if (BrowserDetect.browser == 'Firefox')
+			{
+				if (BrowserDetect.version != 'unknown')
+				{
+					if (parseFloat(BrowserDetect.version) >= 1.8)
+						browserOk = true
+				}
+			}
+			
+			if (browserOk)
+			{	
+				lstDdlClubs.style.display = 'none'
+				document.getElementById('autocompleteSpan').style.display = 'block'
+				var tbxClub  = document.getElementById("ctl04_ctl09_ctl01_ctl00_tbxClubName")
+				var clubCompletion = new CompetitionHockey.Club.ClubList.ClubSelector_class(tbxClub, 'FIELDHOCKEY-VE-WK')
+				lstDdlClubs = document.getElementById("ctl04_ctl09_ctl01_ctl00_tbxClubId")
+			}
+								
+			</script>
+<script type="text/javascript" src="applications/competitionhockey/js/searchclub.js"></script>
+<br />
+
+<div class="pageBodyContent HockeyStyle">
+	<h1>Programma</h1>
+	
+	
+	
+	
+	
+	
+	
+	<div class="resultsStandenMotor">
+		<p>
+			
+					<label class="lblForm"><strong>
+							Club info
+							:</strong></label>M.H.V. Maarssen<br>
+				
+					<label class="lblForm"><strong>
+							Competitiesoort
+							:</strong></label>Veldhockey<br>
+				
+					<label class="lblForm"><strong>
+							Klasse
+							:</strong></label>Res. 5e klasse Heren senioren reserve<br>
+				
+					<label class="lblForm"><strong>
+							Poule
+							:</strong></label>C<br>
+				
+			<div class="searchOptions">
+				<h3>Kies eventueel een andere speelperiode:</h3>
+				<p>
+					<label>Van:</label> <INPUT class="tbxTextbox" style="WIDTH:70px" id="tbxTournamentStartDate" onblur="fnDeSelectTextbox(this, strDateFormat.toLowerCase());"
+						onfocus="fnSelectTextbox(this, strDateFormat.toLowerCase());" type="text"><IMG onclick="fnShowCalendar(event,this, 'tbxTournamentStartDate')" height="22" alt="Selecteer datum door middel van kalender"
+						src="images/btnPageTool_calendar.gif" width="22" align="absMiddle" border="0" class="calButton">
+				</p>
+				<p>
+					<label>t/m:</label> <INPUT class="tbxTextbox" style="WIDTH:70px" id="tbxTournamentEndDate" onblur="fnDeSelectTextbox(this, strDateFormat.toLowerCase());"
+						onfocus="fnSelectTextbox(this, strDateFormat.toLowerCase());" type="text"><IMG onclick="fnShowCalendar(event,this, 'tbxTournamentEndDate')" height="22" alt="Selecteer datum door middel van kalender"
+						src="images/btnPageTool_calendar.gif" width="22" align="absMiddle" border="0" class="calButton">
+				</p>
+				<p>
+					<input name="btnSearchDate" onclick="fnCheckAndSubmitDates()" type="button" value="Zoeken"
+						class="btnStandSearchButton">
+				</p>
+				
+			</div>
+			<h2 class="fullColumn">
+				Team: H5
+			</h2>
+			<div class="fullColumn contPageIndex alignRight">
+				Teams:
+				
+				
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIwNzAtNTY0NDQmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							H1
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTEtNTY2NDEmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							H2
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTItNTY2NDAmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							H3
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTQtNTY2MzgmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							H4
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex activePage">
+							H5
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTktNTY2MzcmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							H6
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MTIwNzAtNTY0OTAmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							HA
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTYtNTY1NjYmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							HL1
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjkwNzQtNTY3MTgmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							HSV1-VOOR
+						</a>
+					
+						|
+					
+						<a href="http://www.knhb.nl/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09Mjk0NTYtNTg0NzcmQ2x1Yj1ISDExS1c4Jk09UA==" class="hrefPageIndex">
+							HVL1
+						</a>
+					
+			</div>
+			
+	</div>
+</div>
+<script>
+	function fnInitDates()
+	{
+		var Datum = new Date()	
+		Datum = new Date(Datum.getFullYear(),Datum.getMonth(),Datum.getDate(), 0, 0, 0, 0)	
+
+		
+		var EindDatum = new Date(Datum.getTime() + (8*24*60*60*1000) - 1)
+		// initialize startdate
+		if (CurrentFilter.fnGetFilterItem('di') == null)
+			document.getElementById("tbxTournamentStartDate").value = Datum.getDate() + "-"  + (1+Datum.getMonth()) + "-" + Datum.getFullYear()
+		else
+		{
+			document.getElementById("tbxTournamentStartDate").value = CurrentFilter.fnGetFilterItem('di').fnGetFilterValue(FilterType.Date)
+		}
+
+	//initialize enddate
+		if (CurrentFilter.fnGetFilterItem('da') == null)
+			document.getElementById("tbxTournamentEndDate").value = EindDatum.getDate() + "-"  + (1+EindDatum.getMonth()) + "-" + EindDatum.getFullYear()
+		else
+		{
+			document.getElementById("tbxTournamentEndDate").value = CurrentFilter.fnGetFilterItem('da').fnGetFilterValue(FilterType.Date)
+		}	
+	}
+	
+	if (document.getElementById("tbxTournamentStartDate"))
+	{
+		fnInitDates()
+	}
+
+	function fnCheckAndSubmitDates()
+	{
+		//newFilter = new DocumentFilter(CurrentFilter.strBaseUrl)
+				
+		CurrentFilter.fnSetFilterItem('di', FilterType.Date, document.getElementById("tbxTournamentStartDate").value)		
+		CurrentFilter.fnSetFilterItem('da', FilterType.Date, document.getElementById("tbxTournamentEndDate").value)
+
+		CurrentFilter.fnExecuteFilter()
+	}
+</script>
+<br />
+<br />
+
+<div class="pageBodyContent">
+	<!--<h1 id="objStandenMotorResults"></h1>-->
+	<div class="resultsStandenMotor">
+		<table class="tblResults fullColumn" cellSpacing="0" cellPadding="2" border="0">
+				<col class="colDate">
+				<col class="colTime">
+				<col class="colMatchNum">				
+				<col class="colTeam">
+				<col class="colTeam">
+				<col class="colField">
+				<tr>
+					<th>
+						Datum</th>
+					<th>
+						Tijd</th>
+					<th>
+						W.nr.</th>					
+					<th>
+						Team</th>
+					<th>
+						Team</th>
+					<th>
+						Veld</th>
+					<th>
+					    Accommodatie</th>
+					</tr>
+				</table>
+		<div class="contPageIndex"><a class="hrefPageIndex prevPage leftColumn" href="/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE1MTgwODAwJktpbmQ9RCZTZXg9MSZkYT0xMzE1OTU4Mzk5JlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA%3d%3d">Vorige week</a> 
+		<a class="hrefPageIndex nextPage rightColumn alignRight" href="/competities+disciplines/standenmotor/standenmotor/cDU593_Standenmotor.aspx?strFilter=QWdlPTAwMSZkaT0xMzE2MzkwNDAwJktpbmQ9RCZTZXg9MSZkYT0xMzE3MTY3OTk5JlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA%3d%3d">Volgende week</a>
+		</div>
+	</div>
+</div>
+<br />
+<!--<input name="ctl04$ctl09$ctl01$TextBox1" type="text" id="ctl04_ctl09_ctl01_TextBox1" />
+<input type="submit" name="ctl04$ctl09$ctl01$Button1" value="Button" id="ctl04_ctl09_ctl01_Button1" />-->
+
+
+
+
+	</div>
+	<div class="contPageExtras">
+		
+<div class="contSearch">
+    <h2>Zoeken</h2>
+	<input name="ctl04$ctl07$tbxSearchTerm" type="text" value="zoekterm ..." id="ctl04_ctl07_tbxSearchTerm" class="tbxSimpleSearch" onfocus="if(this.value=='zoekterm ...')this.value='';else this.select()" onkeydown="return fnDoSimpleSearchOnEnter(event, 'ctl04_ctl07_tbxSearchTerm', 'http://www.knhb.nl/knhb/zoekresultaten/cDU897_Zoekresultaten.aspx')" />
+	 <input name="btnSearch" class="btnSearch" type="button" onclick="fnDoSimpleSearch('ctl04_ctl07_tbxSearchTerm', 'http://www.knhb.nl/knhb/zoekresultaten/cDU897_Zoekresultaten.aspx')" value="Vind" ID="Submit1">
+	<br />
+	<a href="http://www.knhb.nl/knhb/zoekresultaten/cDU897_Zoekresultaten.aspx" title="Geavanceerd zoeken">&gt; Meer zoekopties</a>
+</div>
+
+<div class="contPageTools">
+	
+			<ul>
+		
+			<li>
+				<a href="javascript:window.print()" class="hrefPageTool funcPrint">
+					Print dit artikel
+				</a>
+			</li>
+		
+			<ul>
+		
+	
+</div>
+
+<div class="contPromoButtons top">
+<!-- start Banners -->
+<div id="bannerArea_ctl04_ctl12" class="bannersIdios">
+<!-- temp -->	
+</div>
+ <script type="text/javascript">
+<!--
+var strArrBanners_ctl04_ctl12 = new Array();
+strArrBanners_ctl04_ctl12[strArrBanners_ctl04_ctl12.length] = new Banner('Sport','sport.nl','http://www.sport.nl/','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=125&intCacheTime=15', 0, '');
+strArrBanners_ctl04_ctl12[strArrBanners_ctl04_ctl12.length] = new Banner('Melding hoofdletsel','Melding hoofdletsel','http://www.knhb.nl/knhb/medische+zaken/meldpunt+hoofdblessures/cDU892_Meldpunt+hoofdblessures.aspx','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=122&intCacheTime=15', 0, '');
+strArrBanners_ctl04_ctl12[strArrBanners_ctl04_ctl12.length] = new Banner('Hockey','Hockey','http://www.hockey.nl','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=118&intCacheTime=15', 0, '_blank');
+strArrBanners_ctl04_ctl12[strArrBanners_ctl04_ctl12.length] = new Banner('webshop','KNHB WEBSHOP','http://www.knhb.nl/knhb/webshop/cDU1058_Webshop.aspx','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=124&intCacheTime=15', 0, '');
+fnShowBanners('bannerArea_ctl04_ctl12', strArrBanners_ctl04_ctl12, 10000, 178, 38, 0, 1, 1, 'I_CAP_BannerImage', 'images');
+// -->
+</script>
+ </div>
+<div class="contPromoButtons ">
+<!-- start Banners -->
+<div id="bannerArea_ctl04_ctl13" class="bannersIdios">
+<!-- temp -->	
+</div>
+ <script type="text/javascript">
+<!--
+var strArrBanners_ctl04_ctl13 = new Array();
+strArrBanners_ctl04_ctl13[strArrBanners_ctl04_ctl13.length] = new Banner('hockeyfoto','Bestel hier je foto\'s','http://www.hockeyfoto.nl','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=136&intCacheTime=15', 0, '');
+fnShowBanners('bannerArea_ctl04_ctl13', strArrBanners_ctl04_ctl13, 10000, 178, 38, 0, 1, 1, 'I_CAP_BannerImage', 'images');
+// -->
+</script>
+ </div>
+<div class="contPromoButtons ">
+<!-- start Banners -->
+<div id="bannerArea_ctl04_ctl14" class="bannersIdios">
+<!-- temp -->	
+</div>
+ <script type="text/javascript">
+<!--
+var strArrBanners_ctl04_ctl14 = new Array();
+strArrBanners_ctl04_ctl14[strArrBanners_ctl04_ctl14.length] = new Banner('Standenmotor','Standenmotor','http://www.knhb.nl/competities/standenmotor/standenmotor/cDU593_Standenmotor.aspx','http://live.beheer.knhb.nl/I_API/downloadBNFile.aspx?intBannerId=120&intCacheTime=15', 0, '_self');
+fnShowBanners('bannerArea_ctl04_ctl14', strArrBanners_ctl04_ctl14, 10000, 178, 38, 0, 1, 1, 'I_CAP_BannerImage', 'images');
+// -->
+</script>
+ </div>
+<div class="seperator"><img src="/images/spacer.gif" height="2"></div>
+		
+	</div>
+	<link media="screen" href="css2/css_Footer.css" type="text/css" rel="stylesheet" />
+
+<div class="contPageFooter">
+	
+<div class="contFooterLinks">
+	<div class="left">
+	    <a href="http://www.knhb.nl/knhb/authenticatie/cDU898_Authenticatie.aspx?strReferrer=%2fcompetities%2bdisciplines%2fstandenmotor%2fstandenmotor%2fcDU593_Standenmotor.aspx%3fstrFilter%3dQWdlPTAwMSZkaT0xMzE1ODMwMjYzJktpbmQ9RCZTZXg9MSZkYT0xMzE2NTIxNDYzJlRlYW09MjIxMTctNTY2MzkmQ2x1Yj1ISDExS1c4Jk09UA%3d%3d" id="ctl04_ctl03_ctl00_A1" class="hrefFooter">
+			Login</a>  
+			
+			<span>| <a href="http://www.knhb.nl/knhb/organisatie/bondsbureau/cDU819_Bondsbureau.aspx" class="hrefFooter">
+			KNHB contactgegevens</a></span>
+			<span> | <a href="http://www.knhb.nl/knhb/sitemap/cDU895_Sitemap.aspx" class="hrefFooter">
+			Sitemap</a></span>
+	</div>
+	<div class="right">
+		<span id="ctl04_ctl03_ctl00_Span1"><a href="http://www.knhb.nl/knhb/disclaimer/cDU893_Disclaimer.aspx" class="hrefFooter">
+			Disclaimer / Gebruiksvoorwaarden</a></span> 
+		<span id="ctl04_ctl03_ctl00_Span2">| <a href="http://www.knhb.nl/knhb/copyright/cDU896_Copyright.aspx" class="hrefFooter">
+			Copyright</a> | <a href="http://www.aspacts.com" target="_blank" class="hrefFooter" title="Deze website is ontwikkeld door Aspacts B.V.">
+			Ontwikkeld door Aspacts B.V.</a></span>
+	</div>
+</div>	
+	
+</div>
+
+</div>
+
+		    
+		    
+	    
+
+<script type="text/javascript">
+//<![CDATA[
+window.htmlContentPlugins=window.htmlContentPlugins||[];window.htmlContentPlugins.push('ImageGallery');jQuery(function() { jQuery.fn.lightbox.defaults.strings = {
+prevLinkTitle: 'Vorige foto',
+nextLinkTitle: 'Volgende foto',
+closeTitle: 'Sluit venster',
+prevLinkText: '&laquo; Vorige',
+nextLinkText: 'Volgende &raquo;',
+image: 'Foto ',
+of: ' van '
+}; jQuery('.ICAP_ImageGalleryThumb').lightbox() });
+window.htmlContentPlugins.push('EmbeddedVideo');Aspacts_EmbeddedVideo=window.Aspacts_EmbeddedVideo||{};Aspacts_EmbeddedVideo.flayrplayer='/downloadattachment.aspx?strResource=flayr.swf';jQuery('.Aspacts_ICAP_EmbeddedVideo p').embeddedvideo();window.htmlContentPlugins.push('YouTube');//]]>
+</script>
+</form>
+	    <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-1977208-10");
+                pageTracker._trackPageview();
+            } catch (err) { }
+        </script>
+    </body>
+</html>
